@@ -1,0 +1,52 @@
+{
+  "locations_which_locations_avr": {
+    "id": "locations_which_locations_avr",
+    "question": "Which locations does AVR Web Consulting serve?",
+    "answer": "Visakhapatnam, Delhi NCR, Mumbai, Bangalore, Hyderabad, Chennai, Pune and Kolkata in India, plus clients across the United States, United Kingdom, United Arab Emirates and Europe."
+  },
+  "locations_where_avr_web": {
+    "id": "locations_where_avr_web",
+    "question": "Where is AVR Web Consulting based?",
+    "answer": "Our head office is at Hero Showroom Lane, D No: 43-18-16, Venkatarajunagar, TSN Colony, Beside Sri Ram Insurance, Dondaparthy, Visakhapatnam – 530016, Andhra Pradesh, India. Call +91-9182543249 or email info@avrwebconsulting.com."
+  },
+  "locations_work_with_clients": {
+    "id": "locations_work_with_clients",
+    "question": "Can you work with clients in other time zones?",
+    "answer": "Yes. We schedule calls in your local time and maintain overlap hours for US, UK, UAE and European clients. Day-to-day communication runs on email, WhatsApp and a shared task board."
+  },
+  "locations_charge_more_international": {
+    "id": "locations_charge_more_international",
+    "question": "Do you charge more for international clients?",
+    "answer": "No premium for geography. Pricing reflects scope and competition, which is why international clients often find our rates 50–70% below local agency quotes for the same deliverables."
+  },
+  "locations_handle_multicountry_seo": {
+    "id": "locations_handle_multicountry_seo",
+    "question": "How do you handle multi-country SEO?",
+    "answer": "With a proper hreflang and URL architecture, native-language content, localised currency and spelling, and country-specific entity signals so each market resolves correctly in search and AI systems."
+  },
+  "locations_offer_local_seo": {
+    "id": "locations_offer_local_seo",
+    "question": "Do you offer local SEO for multiple branches?",
+    "answer": "Yes. Each branch gets its own optimised location page, Google Business Profile management, consistent citations and review generation, all tracked separately in reporting."
+  },
+  "locations_target_city_where": {
+    "id": "locations_target_city_where",
+    "question": "Can you target a city where you have no office?",
+    "answer": "Yes. Ranking in a city requires locally relevant content, citations and reviews, not a physical office — though a genuine local address is required to appear in the map pack itself."
+  },
+  "locations_which_markets_give": {
+    "id": "locations_which_markets_give",
+    "question": "Which markets give the fastest ROI?",
+    "answer": "Lower-competition Indian metros such as Visakhapatnam, Kolkata and Pune usually move fastest. In international markets, long-tail and AI-citation strategies deliver returns well before head-term rankings."
+  },
+  "locations_optimise_local_ai": {
+    "id": "locations_optimise_local_ai",
+    "question": "Do you optimise for local AI search?",
+    "answer": "Yes. Local AEO includes LocalBusiness schema with geo-coordinates, consistent NAP everywhere, and answer-first locality content so AI assistants recommend you for 'near me' style prompts."
+  },
+  "locations_we_get_started": {
+    "id": "locations_we_get_started",
+    "question": "How do we get started?",
+    "answer": "Request an audit through the contact page. You will receive a market-specific roadmap, timeline and price quoted in your currency within three working days."
+  }
+}

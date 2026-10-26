@@ -1,0 +1,37 @@
+{
+  "local_citations_gmb_many_citations_my": {
+    "id": "local_citations_gmb_many_citations_my",
+    "question": "How many citations does my business need?",
+    "answer": "Most single-location businesses need 30–60 quality citations. Beyond that, accuracy matters far more than volume — one conflicting listing can do more damage than ten extra directories add value."
+  },
+  "local_citations_gmb_fast_citations_delivered": {
+    "id": "local_citations_gmb_fast_citations_delivered",
+    "question": "How fast are citations delivered?",
+    "answer": "Standard packages of 30 manual citations are delivered within three working days, with a report of live URLs and login details for each submission."
+  },
+  "local_citations_gmb_citations_manual_or": {
+    "id": "local_citations_gmb_citations_manual_or",
+    "question": "Are the citations manual or automated?",
+    "answer": "Every citation is created manually by a team member. We do not use automated submission tools, which frequently produce broken or duplicate listings that later require cleanup."
+  },
+  "local_citations_gmb_happens_if_my": {
+    "id": "local_citations_gmb_happens_if_my",
+    "question": "What happens if my address changes?",
+    "answer": "We run a full NAP update across every listing we control, prioritising Google, Bing, Apple and the aggregators that feed other directories, then verify each change."
+  },
+  "local_citations_gmb_citations_help_if": {
+    "id": "local_citations_gmb_citations_help_if",
+    "question": "Do citations help if I have no physical storefront?",
+    "answer": "Yes. Service-area businesses still benefit from consistent listings; we simply hide the street address where the directory allows and emphasise the service radius."
+  },
+  "local_citations_gmb_fix_suspended_google": {
+    "id": "local_citations_gmb_fix_suspended_google",
+    "question": "Can you fix a suspended Google Business Profile?",
+    "answer": "We can prepare and submit a reinstatement request with supporting documentation, and correct the underlying issue — most often address mismatch, keyword stuffing in the name or ineligible virtual offices."
+  },
+  "local_citations_gmb_manage_multilocation_businesses": {
+    "id": "local_citations_gmb_manage_multilocation_businesses",
+    "question": "Do you manage multi-location businesses?",
+    "answer": "Yes. We manage bulk uploads, per-location profiles, location-specific posts and reporting, with 30 citations per location as standard."
+  }
+}

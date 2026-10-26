@@ -1,0 +1,52 @@
+{
+  "wordpress_development_why_choose_wordpress": {
+    "id": "wordpress_development_why_choose_wordpress",
+    "question": "Why choose WordPress over a website builder?",
+    "answer": "WordPress gives you full ownership of your content, unrestricted SEO control including schema and redirects, and no platform limits on page count or URL structure. Builders are faster to start on and much harder to scale a serious content programme on."
+  },
+  "wordpress_development_which_page_builder": {
+    "id": "wordpress_development_which_page_builder",
+    "question": "Which page builder do you use?",
+    "answer": "Where possible we build with the native block editor and custom patterns, which produces far lighter markup. If your team already relies on Elementor or Divi, we will work within it and optimise around its overhead."
+  },
+  "wordpress_development_many_plugins_will": {
+    "id": "wordpress_development_many_plugins_will",
+    "question": "How many plugins will my site have?",
+    "answer": "Usually under twelve. Every plugin is a maintenance and security liability, so each one has to earn its place. Anything that can be handled with a few lines of theme code is handled in the theme instead."
+  },
+  "wordpress_development_make_my_existing": {
+    "id": "wordpress_development_make_my_existing",
+    "question": "Can you make my existing WordPress site faster?",
+    "answer": "Yes. A typical speed engagement covers hosting and TTFB, image conversion, render-blocking scripts, caching configuration, plugin pruning and database cleanup. Most sites we audit have their largest win in images and unused plugins."
+  },
+  "wordpress_development_use_yoast_or": {
+    "id": "wordpress_development_use_yoast_or",
+    "question": "Do you use Yoast or Rank Math?",
+    "answer": "Either works; we usually configure Rank Math for its schema flexibility. What matters more is the configuration — canonical rules, indexation control, sitemaps and structured data — than which plugin badge sits in the admin bar."
+  },
+  "wordpress_development_wordpress_secure": {
+    "id": "wordpress_development_wordpress_secure",
+    "question": "Is WordPress secure?",
+    "answer": "It is when maintained. We harden the install, restrict admin access, enforce strong authentication, keep core and plugins updated, and set up automated offsite backups so a bad update is a ten-minute rollback rather than a crisis."
+  },
+  "wordpress_development_migrate_my_site": {
+    "id": "wordpress_development_migrate_my_site",
+    "question": "Can you migrate my site from Wix or Squarespace?",
+    "answer": "Yes. We rebuild the content in WordPress, preserve or improve the URL structure with a full 301 redirect map, and monitor Search Console for coverage errors through the first weeks after the switch."
+  },
+  "wordpress_development_will_i_be": {
+    "id": "wordpress_development_will_i_be",
+    "question": "Will I be able to add new pages myself?",
+    "answer": "Yes. We build reusable block patterns for your common page types, so adding a new service or location page is a matter of picking a pattern and filling in the content, with the SEO fields already wired up."
+  },
+  "wordpress_development_build_multilingual_wordpress": {
+    "id": "wordpress_development_build_multilingual_wordpress",
+    "question": "Do you build multilingual WordPress sites?",
+    "answer": "Yes, typically with a translation plugin plus correct hreflang implementation. For markets like the UAE or Europe we also review URL structure so each language version can rank independently."
+  },
+  "wordpress_development_wordpress_development_cost": {
+    "id": "wordpress_development_wordpress_development_cost",
+    "question": "What does WordPress development cost?",
+    "answer": "Business site builds start around $400 and most multi-service sites land between $800 and $2,000 depending on page count, custom templates and integrations. Speed optimisation as a standalone project starts at $200."
+  }
+}

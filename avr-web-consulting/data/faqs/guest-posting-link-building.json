@@ -1,0 +1,52 @@
+{
+  "guest_posting_link_building_much_guest_post": {
+    "id": "guest_posting_link_building_much_guest_post",
+    "question": "How much does a guest post cost?",
+    "answer": "Placements start at $20 on smaller niche blogs and rise with the host site's traffic and authority — mid-tier industry publications typically run $60–$150. You see the site, metrics and price before we commit to anything."
+  },
+  "guest_posting_link_building_guest_posting_still": {
+    "id": "guest_posting_link_building_guest_posting_still",
+    "question": "Is guest posting still effective in 2026?",
+    "answer": "Yes, when the placement is genuinely editorial on a site people actually read. What no longer works is mass-published filler on link farms, which search engines discount and AI models ignore as a credibility signal."
+  },
+  "guest_posting_link_building_your_links_safe": {
+    "id": "guest_posting_link_building_your_links_safe",
+    "question": "Are your links safe from Google penalties?",
+    "answer": "We build the way a PR team would: relevant sites, natural anchor text distribution, gradual pace and no networks. Clients have not experienced manual actions from our placements, and every link is disclosed to you."
+  },
+  "guest_posting_link_building_many_links_i": {
+    "id": "guest_posting_link_building_many_links_i",
+    "question": "How many links do I need per month?",
+    "answer": "Most competitive campaigns run four to ten quality placements a month. The right number depends on competitor link velocity in your niche, which we measure in the audit rather than guess."
+  },
+  "guest_posting_link_building_use_pbns": {
+    "id": "guest_posting_link_building_use_pbns",
+    "question": "Do you use PBNs?",
+    "answer": "Never. Private blog networks are the single fastest route to a manual action, and their footprints are increasingly easy to detect. Every site we place on is an independent publication."
+  },
+  "guest_posting_link_building_long_until_links": {
+    "id": "guest_posting_link_building_long_until_links",
+    "question": "How long until links affect rankings?",
+    "answer": "Links usually take four to twelve weeks to show measurable ranking impact, as the pages need to be crawled, evaluated and trusted. Competitive terms need consistent link acquisition over several months, not a single burst."
+  },
+  "guest_posting_link_building_write_guest_post": {
+    "id": "guest_posting_link_building_write_guest_post",
+    "question": "Do you write the guest post content?",
+    "answer": "Yes. Our writers produce the article to the host publication's editorial standards, with the link placed contextually. You approve the topic and can review the draft before submission."
+  },
+  "guest_posting_link_building_i_choose_anchor": {
+    "id": "guest_posting_link_building_i_choose_anchor",
+    "question": "Can I choose the anchor text?",
+    "answer": "You can specify preferences, and we will advise on distribution. Over-optimised exact-match anchors are one of the clearest spam signals, so we keep branded and natural-phrase anchors as the majority."
+  },
+  "guest_posting_link_building_links_help_ai": {
+    "id": "guest_posting_link_building_links_help_ai",
+    "question": "Do links help AI visibility?",
+    "answer": "Yes, indirectly but importantly. Language models weigh how often and how credibly a brand is mentioned across the web. Editorial placements create the corroborating sources that make an assistant comfortable recommending you by name."
+  },
+  "guest_posting_link_building_reporting_i_receive": {
+    "id": "guest_posting_link_building_reporting_i_receive",
+    "question": "What reporting do I receive?",
+    "answer": "A live sheet listing every placement: host site, live URL, publication date, organic traffic estimate, authority metrics, anchor text and destination page — updated as each link goes live, not summarised at the end of the month."
+  }
+}

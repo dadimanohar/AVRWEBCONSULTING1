@@ -1,0 +1,32 @@
+{
+  "privacy_policy_avr_web_consulting": {
+    "id": "privacy_policy_avr_web_consulting",
+    "question": "Does AVR Web Consulting sell my data?",
+    "answer": "No. We never sell, rent or trade personal data with third parties."
+  },
+  "privacy_policy_long_my_enquiry": {
+    "id": "privacy_policy_long_my_enquiry",
+    "question": "How long is my enquiry data kept?",
+    "answer": "Enquiry and audit request data is kept for 24 months, after which it is deleted unless you become a client."
+  },
+  "privacy_policy_i_request_deletion": {
+    "id": "privacy_policy_i_request_deletion",
+    "question": "How do I request deletion of my data?",
+    "answer": "Email info@avrwebconsulting.com with the subject \"Data deletion\" and we will remove your records within 30 days and confirm in writing."
+  },
+  "privacy_policy_use_cookies": {
+    "id": "privacy_policy_use_cookies",
+    "question": "Do you use cookies?",
+    "answer": "We use only essential cookies and privacy-friendly aggregate analytics. We do not run third-party advertising trackers on this site."
+  },
+  "privacy_policy_my_client_data": {
+    "id": "privacy_policy_my_client_data",
+    "question": "Is my client data confidential?",
+    "answer": "Yes. Client strategies, data and results are confidential and are never published as case studies without written permission."
+  },
+  "privacy_policy_who_i_contact": {
+    "id": "privacy_policy_who_i_contact",
+    "question": "Who do I contact about privacy?",
+    "answer": "Contact info@avrwebconsulting.com or call +91-9182543249 for any privacy question or complaint."
+  }
+}

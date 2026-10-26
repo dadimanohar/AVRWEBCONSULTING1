@@ -1,0 +1,52 @@
+{
+  "blogging_copywriting_much_charge_per": {
+    "id": "blogging_copywriting_much_charge_per",
+    "question": "How much do you charge per article?",
+    "answer": "Packages start at $250 per month for four optimised articles. Individual long-form pillar pages with original research or interviews are quoted separately, typically in the $150–$300 range per piece depending on depth."
+  },
+  "blogging_copywriting_fast_delivery": {
+    "id": "blogging_copywriting_fast_delivery",
+    "question": "How fast is delivery?",
+    "answer": "First drafts land within five business days of an approved brief. Ongoing retainers run on a published calendar so you always know what is coming and when it goes live."
+  },
+  "blogging_copywriting_optimise_content_keywords": {
+    "id": "blogging_copywriting_optimise_content_keywords",
+    "question": "Do you optimise the content for keywords?",
+    "answer": "Yes. Each piece targets one primary query plus a cluster of secondary and question variants, with natural placement in the title, opening answer, headings and body — never keyword stuffing, which now actively suppresses rankings."
+  },
+  "blogging_copywriting_will_content_be": {
+    "id": "blogging_copywriting_will_content_be",
+    "question": "Will the content be original?",
+    "answer": "Every piece is written from scratch and checked for plagiarism before delivery. We never reuse work between clients, even within the same industry."
+  },
+  "blogging_copywriting_match_our_brand": {
+    "id": "blogging_copywriting_match_our_brand",
+    "question": "Can you match our brand voice?",
+    "answer": "Yes. We build a short voice guide from your existing material and sales calls, covering tone, vocabulary, forbidden phrases and how technical to go. The first two pieces are calibration; after that the voice is consistent."
+  },
+  "blogging_copywriting_publish_content_us": {
+    "id": "blogging_copywriting_publish_content_us",
+    "question": "Do you publish the content for us?",
+    "answer": "We can. For WordPress, Webflow, Shopify and most CMS platforms we handle formatting, images, internal links, meta fields and schema, then send you a preview link before publishing."
+  },
+  "blogging_copywriting_many_revisions_included": {
+    "id": "blogging_copywriting_many_revisions_included",
+    "question": "How many revisions are included?",
+    "answer": "Two rounds of revisions are included on every piece. In practice most articles need one light pass once the voice guide is established."
+  },
+  "blogging_copywriting_write_content_that": {
+    "id": "blogging_copywriting_write_content_that",
+    "question": "Do you write content that AI can cite?",
+    "answer": "That is the default structure we write in: direct answers, question headings, factual tables and schema. We also check after 30 days whether assistants have started referencing the page for its target prompts."
+  },
+  "blogging_copywriting_write_technical_or": {
+    "id": "blogging_copywriting_write_technical_or",
+    "question": "Can you write technical or medical content?",
+    "answer": "Yes, with a subject-matter review loop. Regulated topics such as healthcare, finance and legal are drafted by writers experienced in the field and then reviewed by your qualified staff before publication."
+  },
+  "blogging_copywriting_need_from_us": {
+    "id": "blogging_copywriting_need_from_us",
+    "question": "What do you need from us to start?",
+    "answer": "Your target keywords or topics if you have them, access to a sales call recording or two, any existing brand guide, and CMS access if you want us to publish. If you do not have keywords yet, our research covers that in the first week."
+  }
+}

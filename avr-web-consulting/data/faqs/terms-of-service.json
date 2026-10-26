@@ -1,0 +1,32 @@
+{
+  "terms_of_service_there_lockin_contract": {
+    "id": "terms_of_service_there_lockin_contract",
+    "question": "Is there a lock-in contract?",
+    "answer": "No. Services run month-to-month and can be cancelled with 15 days' written notice."
+  },
+  "terms_of_service_guarantee_firstpage_rankings": {
+    "id": "terms_of_service_guarantee_firstpage_rankings",
+    "question": "Do you guarantee first-page rankings?",
+    "answer": "No ethical agency can. We guarantee defined deliverables, transparent reporting and best-practice execution — not specific positions controlled by Google or AI assistants."
+  },
+  "terms_of_service_when_invoices_due": {
+    "id": "terms_of_service_when_invoices_due",
+    "question": "When are invoices due?",
+    "answer": "Monthly invoices are issued in advance and payable within 7 days of the invoice date."
+  },
+  "terms_of_service_who_owns_content": {
+    "id": "terms_of_service_who_owns_content",
+    "question": "Who owns the content and website you build?",
+    "answer": "You do. On payment, all content, code, schema and creative assets transfer to you, and you keep ownership of every platform account."
+  },
+  "terms_of_service_happens_if_i": {
+    "id": "terms_of_service_happens_if_i",
+    "question": "What happens if I cancel mid-month?",
+    "answer": "We complete the current paid month, hand over all assets and access, and do not invoice further. Fees already paid for the current month are non-refundable."
+  },
+  "terms_of_service_which_law_governs": {
+    "id": "terms_of_service_which_law_governs",
+    "question": "Which law governs these terms?",
+    "answer": "These terms are governed by the laws of India, with courts in Visakhapatnam, Andhra Pradesh having jurisdiction, unless a separate signed agreement states otherwise."
+  }
+}

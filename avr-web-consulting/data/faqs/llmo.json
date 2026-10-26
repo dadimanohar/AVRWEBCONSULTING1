@@ -1,0 +1,52 @@
+{
+  "llmo_llmo_stand": {
+    "id": "llmo_llmo_stand",
+    "question": "What does LLMO stand for?",
+    "answer": "LLMO stands for Large Language Model Optimization — structuring and publishing content so language models can retrieve and reuse it accurately."
+  },
+  "llmo_llmo_different_from": {
+    "id": "llmo_llmo_different_from",
+    "question": "How is LLMO different from LLM SEO?",
+    "answer": "LLM SEO is the strategic goal of being known and recommended by models. LLMO is the technical execution layer that makes your content machine-retrievable in the first place."
+  },
+  "llmo_content_chunking": {
+    "id": "llmo_content_chunking",
+    "question": "What is content chunking?",
+    "answer": "Retrieval systems split pages into passages, embed them and match them to queries. Chunking-friendly content uses clear headings and self-contained sections so each passage remains meaningful on its own."
+  },
+  "llmo_i_need_llmstxt": {
+    "id": "llmo_i_need_llmstxt",
+    "question": "Do I need llms.txt?",
+    "answer": "It is optional and still an emerging convention, but it is cheap to add and gives LLM consumers a clean summary of your site and its key URLs. We include it in every LLMO engagement."
+  },
+  "llmo_javascript_hurt_llm": {
+    "id": "llmo_javascript_hurt_llm",
+    "question": "Does JavaScript hurt LLM retrieval?",
+    "answer": "It can. Several AI crawlers do not execute JavaScript, so content that only appears after hydration is invisible to them. Server-side rendering solves this."
+  },
+  "llmo_which_schema_types": {
+    "id": "llmo_which_schema_types",
+    "question": "Which schema types matter most for LLMO?",
+    "answer": "Organization and WebSite for identity, Service for offerings, Article for editorial content, FAQPage for question-answer pairs, LocalBusiness for physical presence and BreadcrumbList for context."
+  },
+  "llmo_should_pdfs_be": {
+    "id": "llmo_should_pdfs_be",
+    "question": "Should PDFs be converted to HTML?",
+    "answer": "Usually yes. Key facts locked inside PDFs, images or embedded tools are far less reliably retrieved than the same information in HTML."
+  },
+  "llmo_llmo_be_done": {
+    "id": "llmo_llmo_be_done",
+    "question": "Can LLMO be done without changing site design?",
+    "answer": "In most cases yes. The work is largely in markup, rendering and content structure rather than visual design."
+  },
+  "llmo_i_know_llmo": {
+    "id": "llmo_i_know_llmo",
+    "question": "How do I know LLMO is working?",
+    "answer": "Retrieval tests improve first — assistants summarise your pages correctly when asked directly. Citation share in unprompted answers follows as content and authority work compounds."
+  },
+  "llmo_llmo_oneoff_project": {
+    "id": "llmo_llmo_oneoff_project",
+    "question": "Is LLMO a one-off project?",
+    "answer": "The foundation is a project; keeping it true is ongoing. Every new template, redesign or CMS change can break rendering or schema, so we re-verify each quarter."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "ai_agent_development_ai_agent": {
+    "id": "ai_agent_development_ai_agent",
+    "question": "What is an AI agent?",
+    "answer": "An AI agent is a software system that interprets a task, uses the tools and information available to it, makes decisions within defined boundaries and performs actions according to its configuration."
+  },
+  "ai_agent_development_ai_agent_2": {
+    "id": "ai_agent_development_ai_agent_2",
+    "question": "What can an AI agent do?",
+    "answer": "Typical uses include answering questions from approved content, qualifying leads, summarising or classifying information, and triggering connected workflows. Agents work best when scoped to a defined task."
+  },
+  "ai_agent_development_ai_agents_connect": {
+    "id": "ai_agent_development_ai_agents_connect",
+    "question": "Can AI agents connect with business tools?",
+    "answer": "Yes, through APIs and integrations, limited to the specific tools and permissions you approve for the agent."
+  },
+  "ai_agent_development_ai_agents_work": {
+    "id": "ai_agent_development_ai_agents_work",
+    "question": "Can AI agents work with n8n?",
+    "answer": "Yes. A common design has the agent interpret the request and decide what should happen, while an n8n workflow reliably executes the steps in your connected applications."
+  },
+  "ai_agent_development_ai_agents_require": {
+    "id": "ai_agent_development_ai_agents_require",
+    "question": "Do AI agents require human monitoring?",
+    "answer": "Yes. Agents can misunderstand instructions or produce incorrect information, so monitoring, logging and human approval for important actions are part of a responsible setup."
+  },
+  "ai_agent_development_ai_agents_fully": {
+    "id": "ai_agent_development_ai_agents_fully",
+    "question": "Are AI agents fully autonomous?",
+    "answer": "No. We build agents with defined boundaries and permitted actions, and we recommend human approval for anything costly, sensitive or hard to reverse."
+  },
+  "ai_agent_development_agent_answer_only": {
+    "id": "ai_agent_development_agent_answer_only",
+    "question": "Can an agent answer only from our own content?",
+    "answer": "Yes. Agents can be restricted to a defined knowledge source, which reduces the chance of answers being invented and keeps responses consistent with your documentation."
+  },
+  "ai_agent_development_keep_our_data": {
+    "id": "ai_agent_development_keep_our_data",
+    "question": "How do you keep our data safe?",
+    "answer": "Through least-privilege access, authentication, agreed rules about what data the agent may read or send, and logging of what the agent did. We do not claim any compliance certification we do not hold."
+  },
+  "ai_agent_development_long_it_take": {
+    "id": "ai_agent_development_long_it_take",
+    "question": "How long does it take to build an agent?",
+    "answer": "It depends on the scope, the systems involved and how much testing the use case requires. We define the task and boundaries first, then give a timeline."
+  },
+  "ai_agent_development_happens_when_agent": {
+    "id": "ai_agent_development_happens_when_agent",
+    "question": "What happens when the agent gets something wrong?",
+    "answer": "Interactions are logged so mistakes can be reviewed, instructions and boundaries are adjusted, and steps that carry real consequences are placed behind human approval."
+  }
+}

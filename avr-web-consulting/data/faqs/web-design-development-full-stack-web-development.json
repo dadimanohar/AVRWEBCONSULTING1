@@ -1,0 +1,52 @@
+{
+  "full_stack_web_development_fullstack_web_development": {
+    "id": "full_stack_web_development_fullstack_web_development",
+    "question": "What is full-stack web development?",
+    "answer": "Full-stack web development means building both the frontend a user interacts with and the backend, database and integrations that support it, so the whole application is delivered and maintained as one system."
+  },
+  "full_stack_web_development_technologies_use": {
+    "id": "full_stack_web_development_technologies_use",
+    "question": "What technologies do you use?",
+    "answer": "We work with React, JavaScript, HTML and CSS on the frontend, Node.js, Python and Java on the backend, and JSON with databases for data and integrations. The exact stack is chosen per project rather than applied to every build."
+  },
+  "full_stack_web_development_build_custom_web": {
+    "id": "full_stack_web_development_build_custom_web",
+    "question": "Can you build custom web applications?",
+    "answer": "Yes. We build applications such as customer portals, admin dashboards, database-driven tools and business management systems, scoped around the workflows your team needs."
+  },
+  "full_stack_web_development_integrate_apis_databases": {
+    "id": "full_stack_web_development_integrate_apis_databases",
+    "question": "Can you integrate APIs and databases?",
+    "answer": "Yes. We connect applications to third-party APIs and internal systems, and design database structures for the data your application needs to store, query and report on."
+  },
+  "full_stack_web_development_fullstack_development_different": {
+    "id": "full_stack_web_development_fullstack_development_different",
+    "question": "How is full-stack development different from WordPress development?",
+    "answer": "WordPress is a content management system that is quick and cost-effective for content-led sites. Full-stack development is for cases where you need custom logic, custom data structures or application behaviour that a CMS and plugins cannot cleanly provide."
+  },
+  "full_stack_web_development_i_need_custom": {
+    "id": "full_stack_web_development_i_need_custom",
+    "question": "Do I need custom development or a WordPress site?",
+    "answer": "If your site is mainly pages, a blog and enquiry forms, WordPress is usually the better value. If users log in, data is processed, or another system must be connected, custom development is generally the more maintainable choice."
+  },
+  "full_stack_web_development_will_application_be": {
+    "id": "full_stack_web_development_will_application_be",
+    "question": "Will the application be responsive?",
+    "answer": "Yes. Interfaces are built to work on desktop, tablet and mobile, and are tested across screen sizes before release."
+  },
+  "full_stack_web_development_who_owns_code": {
+    "id": "full_stack_web_development_who_owns_code",
+    "question": "Who owns the code?",
+    "answer": "You do. Source code and credentials are handed over, and we document the setup so another developer can pick the project up."
+  },
+  "full_stack_web_development_long_custom_project": {
+    "id": "full_stack_web_development_long_custom_project",
+    "question": "How long does a custom project take?",
+    "answer": "It depends on scope. A small custom application is measured in weeks, while a larger system with multiple roles and integrations takes longer. We give a timeline after the requirement analysis stage, not before."
+  },
+  "full_stack_web_development_support_application_after": {
+    "id": "full_stack_web_development_support_application_after",
+    "question": "Do you support the application after launch?",
+    "answer": "Yes. We can continue with fixes, improvements and new features after deployment, or hand over documentation if your own team takes it forward."
+  }
+}

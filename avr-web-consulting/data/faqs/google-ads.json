@@ -1,0 +1,52 @@
+{
+  "google_ads_much_should_i": {
+    "id": "google_ads_much_should_i",
+    "question": "How much should I spend on Google Ads to start?",
+    "answer": "For most local service businesses, $500–$1,000 per month of media buys enough clicks to learn quickly. Competitive B2B or multi-city campaigns usually need $2,000+ per month before the data is reliable enough to optimise confidently."
+  },
+  "google_ads_performance_max_worth": {
+    "id": "google_ads_performance_max_worth",
+    "question": "Is Performance Max worth running?",
+    "answer": "It is, once you have at least 30 conversions a month and clean conversion values. Before that it tends to spend on brand and remarketing traffic you would have won anyway, which inflates reported ROAS while adding little incremental revenue."
+  },
+  "google_ads_why_my_cost": {
+    "id": "google_ads_why_my_cost",
+    "question": "Why is my cost per click so high?",
+    "answer": "Usually a mix of low Quality Score from weak message match, over-broad match types, and bidding on head terms instead of specific commercial phrases. Improving landing page relevance and tightening keywords typically brings CPCs down within a few weeks."
+  },
+  "google_ads_write_ad_copy": {
+    "id": "google_ads_write_ad_copy",
+    "question": "Do you write the ad copy?",
+    "answer": "Yes. We write responsive search ads with pinned value propositions, test four headline angles at a time and rewrite based on asset performance, not opinion. Copy is reviewed with you before it goes live."
+  },
+  "google_ads_manage_google_shopping": {
+    "id": "google_ads_manage_google_shopping",
+    "question": "Can you manage Google Shopping feeds?",
+    "answer": "Yes. We handle Merchant Center setup, feed diagnostics, title and attribute optimisation, custom labels for margin-based bidding, and supplemental feeds for missing GTINs or product highlights."
+  },
+  "google_ads_measure_phone_leads": {
+    "id": "google_ads_measure_phone_leads",
+    "question": "How do you measure phone leads?",
+    "answer": "Through Google call extensions, dynamic call tracking numbers on landing pages and, for longer sales cycles, offline conversion import from your CRM so the algorithm learns which calls actually became customers."
+  },
+  "google_ads_often_optimise_account": {
+    "id": "google_ads_often_optimise_account",
+    "question": "How often do you optimise the account?",
+    "answer": "Search terms and budget pacing are reviewed weekly; bidding strategy, ad copy and structure are reviewed monthly. Bigger structural changes are proposed with a rationale, not applied silently."
+  },
+  "google_ads_will_ads_help": {
+    "id": "google_ads_will_ads_help",
+    "question": "Will ads help my SEO rankings?",
+    "answer": "Not directly — paid clicks are not a ranking factor. Indirectly they help a lot, because ads tell you within weeks which keywords convert, so your SEO investment goes into pages with proven commercial value."
+  },
+  "google_ads_run_ads_multiple": {
+    "id": "google_ads_run_ads_multiple",
+    "question": "Do you run ads in multiple countries?",
+    "answer": "Yes, including India, the US, UK, UAE and European markets. Each country gets its own campaign, currency handling, localised copy and, where needed, a country-specific landing page."
+  },
+  "google_ads_happens_first_30": {
+    "id": "google_ads_happens_first_30",
+    "question": "What happens in the first 30 days?",
+    "answer": "Week one: tracking audit and account build. Week two: launch and daily monitoring. Weeks three and four: search-term pruning, bid strategy tuning and the first copy test. You receive a full performance review at day 30 with the plan for month two."
+  }
+}

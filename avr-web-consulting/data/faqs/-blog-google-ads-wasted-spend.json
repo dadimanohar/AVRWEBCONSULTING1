@@ -1,0 +1,27 @@
+{
+  "blog_google_ads_wasted_spend_much_google_ads": {
+    "id": "blog_google_ads_wasted_spend_much_google_ads",
+    "question": "How much Google Ads spend is typically wasted?",
+    "answer": "In accounts we audit, 30-60% of spend commonly goes to search terms or placements that never produce qualified leads."
+  },
+  "blog_google_ads_wasted_spend_broad_match_always": {
+    "id": "blog_google_ads_wasted_spend_broad_match_always",
+    "question": "Is broad match always bad?",
+    "answer": "No. With strong conversion data and disciplined negative lists it can find new intent, but it needs weekly maintenance."
+  },
+  "blog_google_ads_wasted_spend_should_i_run": {
+    "id": "blog_google_ads_wasted_spend_should_i_run",
+    "question": "Should I run Performance Max?",
+    "answer": "It works for e-commerce with clean feeds and good data, but for lead gen it often absorbs brand traffic and hides where spend goes."
+  },
+  "blog_google_ads_wasted_spend_much_ad_management": {
+    "id": "blog_google_ads_wasted_spend_much_ad_management",
+    "question": "How much does ad management cost?",
+    "answer": "AVR Web Consulting manages Google Ads from $150/month or 12% of spend, whichever fits the account size better."
+  },
+  "blog_google_ads_wasted_spend_ads_help_seo": {
+    "id": "blog_google_ads_wasted_spend_ads_help_seo",
+    "question": "Do ads help SEO rankings?",
+    "answer": "Not directly. They do provide fast keyword and conversion data that makes SEO targeting decisions much more accurate."
+  }
+}

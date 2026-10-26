@@ -1,0 +1,52 @@
+{
+  "social_media_ads_produce_ad_creative": {
+    "id": "social_media_ads_produce_ad_creative",
+    "question": "Do you produce the ad creative?",
+    "answer": "Yes. We write hooks and scripts, edit short-form video from footage you supply or from stock, and design static and carousel assets. If you have an in-house creator, we brief them with the specific angles the data says to test next."
+  },
+  "social_media_ads_much_budget_i": {
+    "id": "social_media_ads_much_budget_i",
+    "question": "How much budget do I need for Meta ads?",
+    "answer": "Around $20–$30 per day per active test lets a campaign exit the learning phase within a couple of weeks. Below that, results swing wildly and it becomes hard to tell a bad creative from an unlucky week."
+  },
+  "social_media_ads_why_did_my": {
+    "id": "social_media_ads_why_did_my",
+    "question": "Why did my ads work then suddenly stop?",
+    "answer": "Almost always creative fatigue: the same audience has now seen the asset many times, frequency climbs and cost per result rises. The fix is a fresh concept, not a bid change — which is why we keep a creative pipeline running continuously."
+  },
+  "social_media_ads_linkedin_advertising_too": {
+    "id": "social_media_ads_linkedin_advertising_too",
+    "question": "Is LinkedIn advertising too expensive?",
+    "answer": "Cost per click is high, but so is lead value. For services with a customer worth several thousand dollars, LinkedIn frequently produces the cheapest qualified pipeline because you can target by job title, company size and industry with real precision."
+  },
+  "social_media_ads_retarget_my_website": {
+    "id": "social_media_ads_retarget_my_website",
+    "question": "Can you retarget my website visitors?",
+    "answer": "Yes. We build retargeting audiences from site visitors, video viewers, engagement and customer lists, then sequence different messages by how warm each group is instead of showing everyone the same ad."
+  },
+  "social_media_ads_social_ads_help": {
+    "id": "social_media_ads_social_ads_help",
+    "question": "Do social ads help AI visibility?",
+    "answer": "Indirectly. Paid social builds branded search demand and third-party conversation about your brand, and both branded queries and independent mentions are signals that AI assistants weigh when deciding which companies to name in an answer."
+  },
+  "social_media_ads_handle_ios_tracking": {
+    "id": "social_media_ads_handle_ios_tracking",
+    "question": "How do you handle iOS tracking limits?",
+    "answer": "With Conversions API, server-side tagging, aggregated event measurement configuration and modelled comparisons against your CRM data. We assume platform numbers overstate and validate against real revenue before scaling."
+  },
+  "social_media_ads_reporting_i_get": {
+    "id": "social_media_ads_reporting_i_get",
+    "question": "What reporting do I get?",
+    "answer": "A weekly summary of spend, leads and cost per result plus creative-level performance, and a monthly review covering audience saturation, next creative concepts and budget recommendations."
+  },
+  "social_media_ads_run_ads_multiple": {
+    "id": "social_media_ads_run_ads_multiple",
+    "question": "Can you run ads in multiple languages?",
+    "answer": "Yes. We run English campaigns across all our markets and can produce Hindi, Telugu and Arabic variants where the audience responds better in a local language."
+  },
+  "social_media_ads_soon_will_i": {
+    "id": "social_media_ads_soon_will_i",
+    "question": "How soon will I see leads?",
+    "answer": "Most accounts see first leads within the opening week, but the honest read on cost per acquisition comes after two to three weeks, once the algorithm has exited learning and at least three creative concepts have had a fair share of budget."
+  }
+}

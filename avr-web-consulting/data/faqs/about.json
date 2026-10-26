@@ -1,0 +1,52 @@
+{
+  "about_who_avr_web": {
+    "id": "about_who_avr_web",
+    "question": "Who is AVR Web Consulting?",
+    "answer": "AVR Web Consulting is a digital marketing agency based in Visakhapatnam, India, specialising in SEO and AI search optimisation for clients in India, the US, UK, UAE and Europe."
+  },
+  "about_where_avr_web": {
+    "id": "about_where_avr_web",
+    "question": "Where is AVR Web Consulting located?",
+    "answer": "Our office is at Hero Showroom Lane, D No: 43-18-16, Venkatarajunagar, TSN Colony, Beside Sri Ram Insurance, Dondaparthy, Visakhapatnam – 530016, Andhra Pradesh, India. We work with clients remotely worldwide and meet on-site with clients in and around Visakhapatnam."
+  },
+  "about_makes_avr_different": {
+    "id": "about_makes_avr_different",
+    "question": "What makes AVR different from other SEO agencies?",
+    "answer": "We run a hybrid model: traditional SEO for Google plus AI search optimisation for ChatGPT, Gemini, Perplexity and AI Overviews. Work is manual and safe, pricing is fixed and low, and there is no lock-in contract."
+  },
+  "about_big_team": {
+    "id": "about_big_team",
+    "question": "How big is the team?",
+    "answer": "We are a compact senior team of strategists, content specialists, developers and analysts. Small enough that you speak to the person doing the work, resourced enough to run enterprise programs."
+  },
+  "about_industries_serve": {
+    "id": "about_industries_serve",
+    "question": "What industries do you serve?",
+    "answer": "Startups, e-commerce, healthcare, fashion and retail, SaaS, real estate, education, travel, legal services and manufacturing. See our industries section for sector-specific playbooks."
+  },
+  "about_work_with_international": {
+    "id": "about_work_with_international",
+    "question": "Do you work with international clients?",
+    "answer": "Yes. Roughly half our work is outside India, across the US, UK, UAE and Europe. We handle timezone overlap, currency billing and market-specific search behaviour."
+  },
+  "about_your_work_safe": {
+    "id": "about_your_work_safe",
+    "question": "Is your work safe from Google penalties?",
+    "answer": "Yes. Everything we do follows Google's spam policies — manual outreach for links, original human-edited content and no manipulative tactics."
+  },
+  "about_report_progress": {
+    "id": "about_report_progress",
+    "question": "How do you report progress?",
+    "answer": "A monthly report and call covering rankings, organic traffic, conversions, technical health and AI citation share, written in plain language with the next month's priorities."
+  },
+  "about_i_start_working": {
+    "id": "about_i_start_working",
+    "question": "How do I start working with AVR?",
+    "answer": "Request an audit through the contact page. We review your site and competitors, send findings and a fixed monthly quote, and start once you approve."
+  },
+  "about_offer_oneoff_projects": {
+    "id": "about_offer_oneoff_projects",
+    "question": "Do you offer one-off projects?",
+    "answer": "Yes. Audits, website builds, migrations and content packages are available as fixed-price one-off projects without a retainer."
+  }
+}

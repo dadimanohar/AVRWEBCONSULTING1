@@ -1,0 +1,52 @@
+{
+  "real_estate_seo_services_local_real_estate": {
+    "id": "real_estate_seo_services_local_real_estate",
+    "question": "How can a local real estate agent compete against Zillow or MagicBricks?",
+    "answer": "While portals dominate broad city searches, they fail on hyper-local specificity. We target specific subdivision names, school districts, condo developments, and lifestyle queries (e.g., 'gated community homes near [local park]'). Your local expertise and detailed neighborhood guides outrank generic portal pages."
+  },
+  "real_estate_seo_services_real_estate_seo": {
+    "id": "real_estate_seo_services_real_estate_seo",
+    "question": "How does real estate SEO generate exclusive listing seller leads?",
+    "answer": "Seller leads are generated through valuation and market analysis intent—such as 'what is my home worth in [neighborhood]', 'selling a house with a tenant in [city]', or 'cost to sell a home in [area]'. We build seller resource hubs and instant valuation funnels to capture homeowners preparing to list."
+  },
+  "real_estate_seo_services_idx_property_search": {
+    "id": "real_estate_seo_services_idx_property_search",
+    "question": "Does an IDX property search integration help or hurt SEO?",
+    "answer": "Poorly implemented IDX feeds can hurt SEO by creating thousands of thin or duplicated MLS pages. We configure your IDX integration with custom canonical tags, unique agent commentary, and proper robots directives so search engines index high-value community pages without penalizing your site."
+  },
+  "real_estate_seo_services_neighborhood_guide_why": {
+    "id": "real_estate_seo_services_neighborhood_guide_why",
+    "question": "What is a neighborhood guide and why is it essential?",
+    "answer": "A neighborhood guide is an in-depth resource covering a specific local community, including housing price trends, school ratings, local dining, parks, commute times, and active listings. It establishes topical authority and attracts buyers relocating to the area."
+  },
+  "real_estate_seo_services_optimize_google_business": {
+    "id": "real_estate_seo_services_optimize_google_business",
+    "question": "How do you optimize Google Business Profile for real estate agents?",
+    "answer": "We optimize your profile under the 'Real Estate Agency' or 'Real Estate Agent' categories, publish weekly neighborhood market updates, upload professional community photos, and implement client review acquisition workflows to boost your Google Maps ranking."
+  },
+  "real_estate_seo_services_structured_data_schema": {
+    "id": "real_estate_seo_services_structured_data_schema",
+    "question": "What structured data schema is recommended for real estate websites?",
+    "answer": "We deploy Schema.org RealEstateAgent markup for your business profile, RealEstateListing schema for exclusive properties, and BreadcrumbList markup for neighborhood navigation, helping search engines render rich search snippets."
+  },
+  "real_estate_seo_services_real_estate_seo_7": {
+    "id": "real_estate_seo_services_real_estate_seo_7",
+    "question": "Can real estate SEO help luxury property specialists?",
+    "answer": "Yes. Luxury real estate requires high-intent lifestyle and architectural keyword targeting (e.g., 'custom waterfront homes', 'penthouse with private elevator'). We build visual, high-speed landing pages that appeal to high-net-worth buyers."
+  },
+  "real_estate_seo_services_track_real_estate": {
+    "id": "real_estate_seo_services_track_real_estate",
+    "question": "How do you track real estate lead conversions?",
+    "answer": "We track form inquiries, saved property searches, phone calls from mobile listings, valuation tool completions, and scheduled private showing requests in Google Analytics 4."
+  },
+  "real_estate_seo_services_create_blog_content": {
+    "id": "real_estate_seo_services_create_blog_content",
+    "question": "Do you create blog content for real estate websites?",
+    "answer": "Yes. We produce localized market reports, relocation guides, and seasonal homebuyer and seller tips that answer real questions asked in your target market, feeding both search engines and AI assistants."
+  },
+  "real_estate_seo_services_much_real_estate": {
+    "id": "real_estate_seo_services_much_real_estate",
+    "question": "How much do Real Estate SEO services cost with AVR Web Consulting?",
+    "answer": "Our real estate SEO retainers start at $200 per month for individual agents and boutique brokerages, with custom scaling for multi-agent regional firms. Retainers include local content creation, IDX optimization, and monthly performance tracking."
+  }
+}

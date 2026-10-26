@@ -1,0 +1,27 @@
+{
+  "blog_llms_txt_guide_llmstxt_official_standard": {
+    "id": "blog_llms_txt_guide_llmstxt_official_standard",
+    "question": "Is llms.txt an official standard?",
+    "answer": "No. It is a community proposal that some AI tools support. It is low-cost to add but carries no guarantee of use."
+  },
+  "blog_llms_txt_guide_where_i_put": {
+    "id": "blog_llms_txt_guide_where_i_put",
+    "question": "Where do I put llms.txt?",
+    "answer": "At the root of your domain, so it is reachable at yourdomain.com/llms.txt, served as plain text or markdown."
+  },
+  "blog_llms_txt_guide_llmstxt_block_ai": {
+    "id": "blog_llms_txt_guide_llmstxt_block_ai",
+    "question": "Does llms.txt block AI training?",
+    "answer": "No. Access control belongs in robots.txt via user-agent directives such as GPTBot and Google-Extended."
+  },
+  "blog_llms_txt_guide_long_should_llmstxt": {
+    "id": "blog_llms_txt_guide_long_should_llmstxt",
+    "question": "How long should llms.txt be?",
+    "answer": "Usually under 100 lines. Curate your best pages rather than duplicating your sitemap."
+  },
+  "blog_llms_txt_guide_should_i_keep": {
+    "id": "blog_llms_txt_guide_should_i_keep",
+    "question": "Should I keep it updated?",
+    "answer": "Yes — review quarterly and whenever you launch a major service page, so the file reflects your current best content."
+  }
+}

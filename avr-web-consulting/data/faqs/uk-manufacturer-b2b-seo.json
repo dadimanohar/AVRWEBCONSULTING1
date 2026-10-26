@@ -1,0 +1,52 @@
+{
+  "uk_manufacturer_b2b_seo_long_did_this": {
+    "id": "uk_manufacturer_b2b_seo_long_did_this",
+    "question": "How long did this manufacturing project take to show results?",
+    "answer": "First measurable movement appeared within 60-90 days, and the headline numbers above were achieved over 8 months of continuous work."
+  },
+  "uk_manufacturer_b2b_seo_services_were_used": {
+    "id": "uk_manufacturer_b2b_seo_services_were_used",
+    "question": "What services were used in this case study?",
+    "answer": "Technical SEO + web rebuild. The mix was set by the audit findings rather than a fixed package."
+  },
+  "uk_manufacturer_b2b_seo_was_any_paid": {
+    "id": "uk_manufacturer_b2b_seo_was_any_paid",
+    "question": "Was any paid advertising involved in these organic numbers?",
+    "answer": "Organic metrics reported here exclude paid traffic. Where paid campaigns ran, they are reported separately in the results table."
+  },
+  "uk_manufacturer_b2b_seo_these_results_be": {
+    "id": "uk_manufacturer_b2b_seo_these_results_be",
+    "question": "Can these results be replicated for my business?",
+    "answer": "Results depend on your market's competitiveness, your site's current state and budget. The method is repeatable; the exact percentages are not guaranteed."
+  },
+  "uk_manufacturer_b2b_seo_much_would_project": {
+    "id": "uk_manufacturer_b2b_seo_much_would_project",
+    "question": "How much would a project like this cost?",
+    "answer": "Programs of this scope typically run between $300 and $600 per month with AVR Web Consulting, depending on content volume and number of markets."
+  },
+  "uk_manufacturer_b2b_seo_was_any_content": {
+    "id": "uk_manufacturer_b2b_seo_was_any_content",
+    "question": "Was any of the content AI-generated?",
+    "answer": "No. All content was researched and written by humans, then structured so that AI systems can extract and cite it accurately."
+  },
+  "uk_manufacturer_b2b_seo_were_ai_citations": {
+    "id": "uk_manufacturer_b2b_seo_were_ai_citations",
+    "question": "How were AI citations measured?",
+    "answer": "We ran a fixed monthly prompt set across ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews, recording whether the brand was named or linked."
+  },
+  "uk_manufacturer_b2b_seo_did_rankings_hold": {
+    "id": "uk_manufacturer_b2b_seo_did_rankings_hold",
+    "question": "Did rankings hold after the engagement?",
+    "answer": "Yes. Because the work is manual and policy-compliant, gains have held through subsequent core updates rather than reversing."
+  },
+  "uk_manufacturer_b2b_seo_share_clients_name": {
+    "id": "uk_manufacturer_b2b_seo_share_clients_name",
+    "question": "Do you share the client's name?",
+    "answer": "Only with written permission. Several clients prefer anonymity, so we describe the business type, market and verified metrics instead."
+  },
+  "uk_manufacturer_b2b_seo_i_get_audit": {
+    "id": "uk_manufacturer_b2b_seo_i_get_audit",
+    "question": "How do I get an audit for my own site?",
+    "answer": "Request an audit from the contact page. You will receive findings, priorities and a fixed monthly quote within one business day."
+  }
+}

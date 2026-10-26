@@ -1,0 +1,52 @@
+{
+  "industries_which_industries_avr": {
+    "id": "industries_which_industries_avr",
+    "question": "Which industries does AVR Web Consulting specialise in?",
+    "answer": "Startups, e-commerce, healthcare, fashion and retail, SaaS and tech, real estate, education, travel and hospitality, legal services, and manufacturing and industrial exporters — with dedicated strategy pages for each."
+  },
+  "industries_if_my_industry": {
+    "id": "industries_if_my_industry",
+    "question": "What if my industry is not listed?",
+    "answer": "We still work with you. The listed sectors are where we have the deepest playbooks, but our audit-first process adapts to any business with search or AI-assistant demand. Contact us for an assessment."
+  },
+  "industries_industry_experience_actually": {
+    "id": "industries_industry_experience_actually",
+    "question": "Does industry experience actually matter in SEO?",
+    "answer": "Yes — mostly for speed and accuracy. Knowing the intent clusters, compliance limits and schema types for a sector removes months of discovery and avoids strategies that cannot be published in regulated industries."
+  },
+  "industries_work_with_competitors": {
+    "id": "industries_work_with_competitors",
+    "question": "Do you work with competitors in the same city?",
+    "answer": "No. We take one client per industry per target city so we are never optimising two sites against each other for the same keywords."
+  },
+  "industries_ai_seo_different": {
+    "id": "industries_ai_seo_different",
+    "question": "How is AI SEO different by industry?",
+    "answer": "The citation bar differs. Health, legal and finance require credentialed authorship and verifiable sources; e-commerce and SaaS require structured product and capability data. We tune the AEO and LLMO layer to each sector's evidence requirements."
+  },
+  "industries_handle_multilocation_businesses": {
+    "id": "industries_handle_multilocation_businesses",
+    "question": "Can you handle multi-location businesses?",
+    "answer": "Yes. We build service-by-location page matrices with LocalBusiness schema, synced NAP and per-location Google Business Profile optimisation, from two locations to two hundred."
+  },
+  "industries_industry_programme_cost": {
+    "id": "industries_industry_programme_cost",
+    "question": "What does an industry programme cost?",
+    "answer": "We provide tailored proposals for focused local or single-service scopes, scaling with content volume, locations and competitiveness. Every quote follows an initial audit so the scope matches the opportunity."
+  },
+  "industries_quickly_industry_programmes": {
+    "id": "industries_quickly_industry_programmes",
+    "question": "How quickly do industry programmes show results?",
+    "answer": "Impressions typically move in 3–6 weeks after technical fixes. Rankings and enquiry growth generally become material in months 3–6, with authority-driven compounding after that."
+  },
+  "industries_provide_content_writing": {
+    "id": "industries_provide_content_writing",
+    "question": "Do you provide content writing for regulated industries?",
+    "answer": "Yes. Human writers produce every page, with client-side review workflows for medical, legal and financial claims so nothing is published without approval."
+  },
+  "industries_we_start_with": {
+    "id": "industries_we_start_with",
+    "question": "Can we start with one service before a full programme?",
+    "answer": "Absolutely. Many clients begin with a technical audit, a local SEO sprint or an AI visibility assessment, then expand once the first results land."
+  }
+}

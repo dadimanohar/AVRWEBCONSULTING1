@@ -1,0 +1,52 @@
+{
+  "ai_overviews_google_ai_overviews": {
+    "id": "ai_overviews_google_ai_overviews",
+    "question": "What are Google AI Overviews?",
+    "answer": "AI Overviews are AI-generated summaries that appear above traditional search results for many queries, synthesised from several web pages and displayed with links to those sources."
+  },
+  "ai_overviews_i_get_featured": {
+    "id": "ai_overviews_i_get_featured",
+    "question": "How do I get featured in AI Overviews?",
+    "answer": "Rank in the candidate set for the query, answer the question directly in the first lines of the relevant section, use headings that mirror the query, add supporting structure and schema, and build topical depth across the cluster."
+  },
+  "ai_overviews_ai_overviews_reduce": {
+    "id": "ai_overviews_ai_overviews_reduce",
+    "question": "Do AI Overviews reduce website traffic?",
+    "answer": "For purely informational queries, often yes. For commercial and comparison queries, click behaviour holds up better because users still want to evaluate options and pricing."
+  },
+  "ai_overviews_i_opt_out": {
+    "id": "ai_overviews_i_opt_out",
+    "question": "Can I opt out of AI Overviews?",
+    "answer": "Partially. The nosnippet and max-snippet directives limit how your content can be used, but applying them typically removes snippet visibility too. We rarely recommend it."
+  },
+  "ai_overviews_ai_overviews_use": {
+    "id": "ai_overviews_ai_overviews_use",
+    "question": "Do AI Overviews use the same ranking factors as normal search?",
+    "answer": "They are grounded in search, so ranking, relevance and quality signals matter — but passage clarity and structure influence which of the ranked pages actually gets quoted."
+  },
+  "ai_overviews_i_tell_if": {
+    "id": "ai_overviews_i_tell_if",
+    "question": "How can I tell if my pages appear in Overviews?",
+    "answer": "We track your priority queries monthly and record whether an Overview appears and which domains are cited, since Search Console does not separate Overview data explicitly."
+  },
+  "ai_overviews_schema_help_with": {
+    "id": "ai_overviews_schema_help_with",
+    "question": "Does schema help with AI Overviews?",
+    "answer": "Schema does not force inclusion but it removes ambiguity about entities, authorship, prices and questions, which supports accurate extraction and consistent attribution."
+  },
+  "ai_overviews_which_content_types": {
+    "id": "ai_overviews_which_content_types",
+    "question": "Which content types get cited most?",
+    "answer": "Definitions, how-to steps, comparison tables, pricing explanations and troubleshooting answers, especially when written concisely with supporting evidence."
+  },
+  "ai_overviews_should_i_stop": {
+    "id": "ai_overviews_should_i_stop",
+    "question": "Should I stop writing informational blog content?",
+    "answer": "No — informational depth is how a site earns topical authority. Rebalance rather than abandon: keep the pillars, and invest more in commercial, comparison and original-data content."
+  },
+  "ai_overviews_success_measured_ai": {
+    "id": "ai_overviews_success_measured_ai",
+    "question": "How is success measured for AI Overview work?",
+    "answer": "Citation frequency across tracked queries, impression growth, branded search volume and conversions from pages that appear as Overview sources."
+  }
+}

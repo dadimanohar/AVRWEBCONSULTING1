@@ -1,0 +1,52 @@
+{
+  "local_seo_much_local_seo": {
+    "id": "local_seo_much_local_seo",
+    "question": "How much does local SEO cost?",
+    "answer": "Local SEO starts at $100 per month per location. That includes Google Business Profile optimisation, weekly posts, citation maintenance, review guidance and on-page work for your location pages."
+  },
+  "local_seo_fast_will_i": {
+    "id": "local_seo_fast_will_i",
+    "question": "How fast will I appear in the map pack?",
+    "answer": "Most single-location businesses see map pack movement in 30–60 days once citations are consistent and the profile is fully completed. Competitive metro categories such as dentistry or real estate usually take three to four months."
+  },
+  "local_seo_citation_why_it": {
+    "id": "local_seo_citation_why_it",
+    "question": "What is a citation and why does it matter?",
+    "answer": "A citation is any online mention of your business name, address and phone number. Search engines use the consistency of those mentions to verify that your business is real and located where you claim, which directly affects map rankings."
+  },
+  "local_seo_manage_google_business": {
+    "id": "local_seo_manage_google_business",
+    "question": "Do you manage Google Business Profile posts and photos?",
+    "answer": "Yes. We publish weekly posts, add geo-tagged photos, keep services and hours accurate, answer Q&amp;A entries and monitor for unauthorised profile edits or suspensions."
+  },
+  "local_seo_help_with_reviews": {
+    "id": "local_seo_help_with_reviews",
+    "question": "Can you help with reviews?",
+    "answer": "We provide a compliant review generation system — request templates, QR cards and follow-up sequences — plus response writing. We never buy or fabricate reviews, which risks profile suspension."
+  },
+  "local_seo_i_need_physical": {
+    "id": "local_seo_i_need_physical",
+    "question": "Do I need a physical address for local SEO?",
+    "answer": "You need either a physical address or a defined service area. Service-area businesses can hide the address and still rank, provided the profile, citations and website all describe the same service radius."
+  },
+  "local_seo_rank_one_business": {
+    "id": "local_seo_rank_one_business",
+    "question": "Can you rank one business in multiple cities?",
+    "answer": "Yes, through a combination of genuine service-area pages, city-specific content and, where you have real premises, additional verified Google Business Profiles. We never create fake listings — they get removed and can suspend the main profile."
+  },
+  "local_seo_report_local_seo": {
+    "id": "local_seo_report_local_seo",
+    "question": "How do you report local SEO results?",
+    "answer": "You receive monthly grid rank tracking around your location, Google Business Profile insights (calls, direction requests, website clicks), citation status and organic conversions from location pages."
+  },
+  "local_seo_nap_consistency": {
+    "id": "local_seo_nap_consistency",
+    "question": "What is NAP consistency?",
+    "answer": "NAP stands for name, address and phone number. Consistency means every listing uses the exact same format everywhere. Variations such as 'Ste 4' versus 'Suite 4' weaken the trust signal and can hold back map rankings."
+  },
+  "local_seo_local_seo_help": {
+    "id": "local_seo_local_seo_help",
+    "question": "Does local SEO help with AI search?",
+    "answer": "Yes. Assistants like ChatGPT and Gemini pull from directories, reviews and structured data. Clean NAP, LocalBusiness schema and answer-formatted content make your business far more likely to be named when someone asks an AI for a local recommendation."
+  }
+}

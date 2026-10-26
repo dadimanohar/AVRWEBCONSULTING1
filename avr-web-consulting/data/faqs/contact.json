@@ -1,0 +1,52 @@
+{
+  "contact_i_request_seo": {
+    "id": "contact_i_request_seo",
+    "question": "How do I request an SEO audit?",
+    "answer": "Email info@avrwebconsulting.com or call +91-9182543249 with your website URL and up to three competitors. We return a technical, keyword and AI visibility audit, usually within three business days."
+  },
+  "contact_quickly_reply": {
+    "id": "contact_quickly_reply",
+    "question": "How quickly do you reply?",
+    "answer": "Within one business day. Enquiries received during working hours are usually answered the same day."
+  },
+  "contact_your_working_hours": {
+    "id": "contact_your_working_hours",
+    "question": "What are your working hours?",
+    "answer": "Mon–Sat 09:30–19:00 IST. Calls outside these hours are scheduled by request to suit US, UK and UAE time zones."
+  },
+  "contact_work_with_international": {
+    "id": "contact_work_with_international",
+    "question": "Do you work with international clients?",
+    "answer": "Yes. Alongside Indian clients, we work with businesses in the US, UK, UAE and Europe, with reporting and calls arranged in your local time."
+  },
+  "contact_require_longterm_contracts": {
+    "id": "contact_require_longterm_contracts",
+    "question": "Do you require long-term contracts?",
+    "answer": "No. Our retainers run month to month. We ask for a realistic runway of three to six months because SEO needs time, but you are never locked in."
+  },
+  "contact_information_should_i": {
+    "id": "contact_information_should_i",
+    "question": "What information should I include in my enquiry?",
+    "answer": "Your website URL, your main services and target locations, your competitors, current traffic or ranking issues, and your budget range if you have one."
+  },
+  "contact_we_meet_person": {
+    "id": "contact_we_meet_person",
+    "question": "Can we meet in person?",
+    "answer": "Yes, at our office: Hero Showroom Lane, D No: 43-18-16, Venkatarajunagar, TSN Colony, Beside Sri Ram Insurance, Dondaparthy, Visakhapatnam – 530016, Andhra Pradesh, India. Please book a time in advance so the right specialists are available."
+  },
+  "contact_offer_oneoff_audits": {
+    "id": "contact_offer_oneoff_audits",
+    "question": "Do you offer one-off audits without a retainer?",
+    "answer": "Yes. Paid deep-dive audits are available as standalone projects if you have an in-house team to implement the recommendations."
+  },
+  "contact_who_will_i": {
+    "id": "contact_who_will_i",
+    "question": "Who will I work with day to day?",
+    "answer": "A named account lead plus the specialists assigned to your work. All work is manual and in-house — we do not outsource delivery to unvetted third parties."
+  },
+  "contact_handle_access_confidentiality": {
+    "id": "contact_handle_access_confidentiality",
+    "question": "How do you handle access and confidentiality?",
+    "answer": "We request the minimum access needed, use delegated permissions rather than shared passwords, and sign an NDA on request before any data is shared."
+  }
+}

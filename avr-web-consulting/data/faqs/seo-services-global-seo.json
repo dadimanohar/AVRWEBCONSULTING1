@@ -1,0 +1,52 @@
+{
+  "global_seo_difference_between_global": {
+    "id": "global_seo_difference_between_global",
+    "question": "What is the difference between global SEO and local SEO?",
+    "answer": "Global SEO targets audiences in multiple countries through language and country signals, while local SEO targets buyers near a physical location through Google Business Profile, citations and map-pack signals. Many clients run both: local for their home city and global for export markets."
+  },
+  "global_seo_i_need_separate": {
+    "id": "global_seo_i_need_separate",
+    "question": "Do I need separate websites for each country?",
+    "answer": "Usually not. For most businesses a single domain with country subdirectories and correct hreflang performs better than several weak websites, because all links and authority accumulate on one domain."
+  },
+  "global_seo_hreflang_work": {
+    "id": "global_seo_hreflang_work",
+    "question": "How does hreflang work?",
+    "answer": "Hreflang tags tell search engines which language and regional version of a page to show. Each version must reference every other version, including itself, and pair with a self-referencing canonical. Incorrect or one-way hreflang is one of the most common international SEO faults we fix."
+  },
+  "global_seo_long_global_seo": {
+    "id": "global_seo_long_global_seo",
+    "question": "How long does global SEO take?",
+    "answer": "Architecture and technical work is typically complete in 3–6 weeks. Ranking traction in a new country usually appears from month three, and compounds from month six as market-specific links and content accumulate."
+  },
+  "global_seo_handle_nonenglish_markets": {
+    "id": "global_seo_handle_nonenglish_markets",
+    "question": "Can you handle non-English markets?",
+    "answer": "Yes. We manage localisation with native reviewers for major European languages and Arabic, and we always localise intent and examples rather than machine-translating existing pages."
+  },
+  "global_seo_much_global_seo": {
+    "id": "global_seo_much_global_seo",
+    "question": "How much does global SEO cost?",
+    "answer": "Global SEO retainers start at $200 per month for a single market and scale with the number of countries, languages and pages. You receive a fixed monthly price after the audit, with no long lock-in contracts."
+  },
+  "global_seo_will_duplicate_english": {
+    "id": "global_seo_will_duplicate_english",
+    "question": "Will duplicate English pages hurt my rankings?",
+    "answer": "Not if handled correctly. Near-duplicate US, UK and AU pages need hreflang plus meaningful localisation — pricing, spelling, examples and contact details — so each version is genuinely useful for its market."
+  },
+  "global_seo_build_links_each": {
+    "id": "global_seo_build_links_each",
+    "question": "Do you build links in each target country?",
+    "answer": "Yes. Local relevance matters, so we place manual guest posts, listings and digital PR mentions on sites based in or read by each target market rather than relying on generic global directories."
+  },
+  "global_seo_measure_global_seo": {
+    "id": "global_seo_measure_global_seo",
+    "question": "How do you measure global SEO performance?",
+    "answer": "We segment Search Console and analytics by country, then report impressions, clicks, average position, conversions and AI-answer citations per market so you can see which country is paying back its investment."
+  },
+  "global_seo_global_seo_work": {
+    "id": "global_seo_global_seo_work",
+    "question": "Can global SEO work for a small business?",
+    "answer": "Yes, if you focus. We usually start with one or two priority countries and a tight keyword set rather than launching ten locales at once, which keeps costs low and produces measurable wins faster."
+  }
+}

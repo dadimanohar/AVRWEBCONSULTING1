@@ -1,0 +1,52 @@
+{
+  "content_marketing_much_content_marketing": {
+    "id": "content_marketing_much_content_marketing",
+    "question": "How much does content marketing cost?",
+    "answer": "Article packages start around $250 per month for four optimised posts, with pillar pages and multi-cluster programmes quoted by scope. Guest post placements start at $20 depending on the authority and traffic of the host site."
+  },
+  "content_marketing_use_ai_write": {
+    "id": "content_marketing_use_ai_write",
+    "question": "Do you use AI to write the content?",
+    "answer": "We use AI for research, clustering and outlining, never for final prose. Every published sentence is human-written and edited, which is why our pages continue to perform through helpful-content updates that flattened bulk-generated sites."
+  },
+  "content_marketing_long_should_blog": {
+    "id": "content_marketing_long_should_blog",
+    "question": "How long should a blog post be?",
+    "answer": "Long enough to fully answer the question and no longer. In practice that is 1,200–1,800 words for a focused how-to and 2,500–3,500 for a pillar page. Padding hurts, because it dilutes the passages an answer engine would otherwise extract."
+  },
+  "content_marketing_often_should_we": {
+    "id": "content_marketing_often_should_we",
+    "question": "How often should we publish?",
+    "answer": "Four to eight substantial pieces a month builds topical authority at a sensible pace for most businesses. Consistency and internal linking within a cluster matter more than raw output volume."
+  },
+  "content_marketing_will_content_help": {
+    "id": "content_marketing_will_content_help",
+    "question": "Will content help me appear in ChatGPT answers?",
+    "answer": "It is the main lever. Language models cite sources that state facts plainly, structure them clearly and are corroborated elsewhere. Answer-first pages plus schema plus consistent brand facts across the web is what moves you into generated answers."
+  },
+  "content_marketing_write_industryspecific_niches": {
+    "id": "content_marketing_write_industryspecific_niches",
+    "question": "Do you write in industry-specific niches?",
+    "answer": "Yes — healthcare, SaaS, legal, real estate, education, manufacturing, travel and e-commerce among others. Technical or regulated niches get a subject-matter review round with your team before publication."
+  },
+  "content_marketing_who_owns_content": {
+    "id": "content_marketing_who_owns_content",
+    "question": "Who owns the content?",
+    "answer": "You do, fully and permanently, from the moment it is delivered. There are no licensing terms and nothing is reused for another client."
+  },
+  "content_marketing_refresh_existing_content": {
+    "id": "content_marketing_refresh_existing_content",
+    "question": "Can you refresh existing content?",
+    "answer": "Yes, and it is often the fastest win available. Rewriting existing pages answer-first, adding schema, updating statistics and consolidating cannibalising URLs frequently lifts traffic faster than publishing anything new."
+  },
+  "content_marketing_handle_keyword_research": {
+    "id": "content_marketing_handle_keyword_research",
+    "question": "How do you handle keyword research?",
+    "answer": "We map keywords by intent — informational, comparison, commercial and transactional — then assign each cluster to a page type so pages do not compete with each other. Paid search data, where available, tells us which terms actually convert."
+  },
+  "content_marketing_reporting_i_get": {
+    "id": "content_marketing_reporting_i_get",
+    "question": "What reporting do I get?",
+    "answer": "Monthly reporting covering published pieces, rankings and impressions per target query, conversions attributed to content, and AI-visibility checks showing whether assistants now mention or cite your brand for tracked prompts."
+  }
+}

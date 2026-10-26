@@ -1,0 +1,52 @@
+{
+  "technical_seo_long_technical_seo": {
+    "id": "technical_seo_long_technical_seo",
+    "question": "How long does a technical SEO audit take?",
+    "answer": "A standard audit is delivered within five working days. Enterprise sites with log-file analysis and multiple templates take up to ten working days."
+  },
+  "technical_seo_implement_fixes_or": {
+    "id": "technical_seo_implement_fixes_or",
+    "question": "Do you implement fixes or only recommend them?",
+    "answer": "Both. Many clients hand the prioritised backlog to their own developers; others ask us to implement directly. We are comfortable working in WordPress, Shopify and custom stacks."
+  },
+  "technical_seo_core_web_vitals": {
+    "id": "technical_seo_core_web_vitals",
+    "question": "What are Core Web Vitals and do they still matter?",
+    "answer": "Core Web Vitals measure loading (LCP), responsiveness (INP) and visual stability (CLS). They are a real but modest ranking factor, and a large conversion factor — slow mobile pages lose revenue regardless of rankings."
+  },
+  "technical_seo_will_technical_seo": {
+    "id": "technical_seo_will_technical_seo",
+    "question": "Will technical SEO alone increase my traffic?",
+    "answer": "Technical SEO removes constraints; content and authority create growth. When a site has serious crawl, index or rendering issues, fixing them can produce immediate gains. On a technically healthy site, the returns come from content and links instead."
+  },
+  "technical_seo_handle_javascriptheavy_websites": {
+    "id": "technical_seo_handle_javascriptheavy_websites",
+    "question": "How do you handle JavaScript-heavy websites?",
+    "answer": "We test rendered versus raw HTML, identify content that only appears after hydration, and recommend server-side rendering, static generation or prerendering for critical pages so both Google and AI crawlers see complete content."
+  },
+  "technical_seo_schema_markup_should": {
+    "id": "technical_seo_schema_markup_should",
+    "question": "What schema markup should my site have?",
+    "answer": "At minimum Organization and WebSite sitewide, Service on service pages, Article on posts, FAQPage where you answer questions, LocalBusiness for physical locations and BreadcrumbList on deep pages. We map schema per template rather than page by page."
+  },
+  "technical_seo_often_should_technical": {
+    "id": "technical_seo_often_should_technical",
+    "question": "How often should a technical audit be repeated?",
+    "answer": "A full audit annually, with quarterly health checks. Any time you migrate platforms, redesign or change URL structure, run an audit before and after launch."
+  },
+  "technical_seo_technical_seo_recover": {
+    "id": "technical_seo_technical_seo_recover",
+    "question": "Can technical SEO recover a traffic drop?",
+    "answer": "Often yes, when the drop came from an accidental noindex, a broken migration, canonical errors or a server performance regression. We start by matching the drop date against deployments, Search Console coverage and algorithm updates."
+  },
+  "technical_seo_site_migrations": {
+    "id": "technical_seo_site_migrations",
+    "question": "Do you do site migrations?",
+    "answer": "Yes. We plan URL mapping, redirect rules, schema parity and staging QA, then monitor coverage and rankings daily for the first four weeks after launch."
+  },
+  "technical_seo_technical_seo_affect": {
+    "id": "technical_seo_technical_seo_affect",
+    "question": "Does technical SEO affect AI visibility?",
+    "answer": "Significantly. Most AI crawlers do not render JavaScript and rely heavily on structured data and clean semantics, so a technically sound site is a precondition for being cited in AI answers."
+  }
+}

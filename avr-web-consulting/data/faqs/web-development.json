@@ -1,0 +1,52 @@
+{
+  "web_design_development_much_website_cost": {
+    "id": "web_design_development_much_website_cost",
+    "question": "How much does a website cost?",
+    "answer": "Small business sites start around $400, content-rich multi-service sites typically run $800–$2,000, and e-commerce builds depend on catalogue size and integrations. Every quote is fixed-scope with the deliverables written down before work begins."
+  },
+  "web_design_development_long_website_take": {
+    "id": "web_design_development_long_website_take",
+    "question": "How long does a website take to build?",
+    "answer": "A focused business site takes three to four weeks, larger content sites four to six, and e-commerce five to seven. The main variable is content readiness — projects where copy and images are ready launch weeks sooner."
+  },
+  "web_design_development_will_my_new": {
+    "id": "web_design_development_will_my_new",
+    "question": "Will my new site keep its existing rankings?",
+    "answer": "Yes, when the migration is done properly. We map every existing URL to its new destination with 301 redirects, preserve title and heading structure on ranking pages, and monitor indexation daily for the first fortnight after launch."
+  },
+  "web_design_development_design_mobilefirst": {
+    "id": "web_design_development_design_mobilefirst",
+    "question": "Do you design mobile-first?",
+    "answer": "Always. Most traffic in our clients' markets is mobile, and Google indexes the mobile version. Designs are drawn at mobile widths first and expanded upward, rather than shrinking a desktop layout."
+  },
+  "web_design_development_i_edit_website": {
+    "id": "web_design_development_i_edit_website",
+    "question": "Can I edit the website myself?",
+    "answer": "Yes. WordPress and Shopify builds come with a page builder or block setup plus a short recorded walkthrough, so your team can update text, images, blog posts and products without needing us."
+  },
+  "web_design_development_provide_hosting": {
+    "id": "web_design_development_provide_hosting",
+    "question": "Do you provide hosting?",
+    "answer": "We advise on hosting and can set it up in your own account, so you always own the infrastructure and billing. For most business sites we recommend managed hosting with a CDN rather than the cheapest shared plan."
+  },
+  "web_design_development_site_optimised_ai": {
+    "id": "web_design_development_site_optimised_ai",
+    "question": "Is the site optimised for AI search?",
+    "answer": "Yes. Templates include answer-first content blocks, FAQ sections with schema, clean semantic markup and an llms.txt file, all of which make the site easier for AI retrieval systems to parse and cite."
+  },
+  "web_design_development_about_website_speed": {
+    "id": "web_design_development_about_website_speed",
+    "question": "What about website speed?",
+    "answer": "We set performance budgets during the build and test on throttled mobile connections. Targets are green Core Web Vitals: LCP under 2.5 seconds, INP under 200ms and CLS under 0.1 on real devices, not just on a fast desktop."
+  },
+  "web_design_development_offer_maintenance_after": {
+    "id": "web_design_development_offer_maintenance_after",
+    "question": "Do you offer maintenance after launch?",
+    "answer": "Thirty days of support is included with every build. After that, optional maintenance covers updates, backups, security monitoring, uptime checks and a monthly content or design change allowance."
+  },
+  "web_design_development_redesign_existing_site": {
+    "id": "web_design_development_redesign_existing_site",
+    "question": "Can you redesign an existing site?",
+    "answer": "Yes, and we start with an audit of what currently ranks and converts so the redesign protects those assets. Redesigns that ignore existing performance data are the most common cause of post-launch traffic loss."
+  }
+}

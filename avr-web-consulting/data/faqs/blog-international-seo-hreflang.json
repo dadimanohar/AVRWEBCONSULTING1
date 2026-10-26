@@ -1,0 +1,27 @@
+{
+  "blog_international_seo_hreflang_i_need_separate": {
+    "id": "blog_international_seo_hreflang_i_need_separate",
+    "question": "Do I need separate sites per country?",
+    "answer": "Rarely. Subdirectories with hreflang serve most brands better because they consolidate authority and are cheaper to maintain."
+  },
+  "blog_international_seo_hreflang_hreflang_ranking_factor": {
+    "id": "blog_international_seo_hreflang_hreflang_ranking_factor",
+    "question": "Is hreflang a ranking factor?",
+    "answer": "No, it is a targeting signal. It tells Google which version to show which audience, preventing wrong-locale results and duplication issues."
+  },
+  "blog_international_seo_hreflang_i_use_automatic": {
+    "id": "blog_international_seo_hreflang_i_use_automatic",
+    "question": "Can I use automatic translation?",
+    "answer": "Only as a first draft. Machine translation without local review produces awkward phrasing that fails to match real local search queries."
+  },
+  "blog_international_seo_hreflang_should_i_redirect": {
+    "id": "blog_international_seo_hreflang_should_i_redirect",
+    "question": "Should I redirect users by IP?",
+    "answer": "No. Auto-redirects can block crawlers from other locales. Offer a dismissible suggestion banner instead."
+  },
+  "blog_international_seo_hreflang_long_international_seo": {
+    "id": "blog_international_seo_hreflang_long_international_seo",
+    "question": "How long does international SEO take?",
+    "answer": "Expect 4-8 months per new market, since local authority and links must be built even when your home domain is strong."
+  }
+}

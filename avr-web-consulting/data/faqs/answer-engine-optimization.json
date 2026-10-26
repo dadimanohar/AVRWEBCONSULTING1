@@ -1,0 +1,52 @@
+{
+  "answer_engine_optimization_aeo_stand": {
+    "id": "answer_engine_optimization_aeo_stand",
+    "question": "What does AEO stand for?",
+    "answer": "AEO stands for Answer Engine Optimization — optimising content so answer engines and AI assistants can extract and attribute a direct answer from your page."
+  },
+  "answer_engine_optimization_aeo_different_from": {
+    "id": "answer_engine_optimization_aeo_different_from",
+    "question": "How is AEO different from SEO?",
+    "answer": "SEO aims to rank a page; AEO aims to have a specific passage selected as the answer. AEO focuses on question phrasing, answer length, factual clarity and schema rather than page-level ranking alone."
+  },
+  "answer_engine_optimization_long_should_answer": {
+    "id": "answer_engine_optimization_long_should_answer",
+    "question": "How long should an answer paragraph be?",
+    "answer": "Between 40 and 60 words works best. It is long enough to be complete and short enough to be lifted whole into a snippet or AI summary without truncation."
+  },
+  "answer_engine_optimization_faq_schema_still": {
+    "id": "answer_engine_optimization_faq_schema_still",
+    "question": "Does FAQ schema still produce rich results?",
+    "answer": "Google reduced FAQ rich results for most sites, but FAQPage markup remains valuable because AI systems parse it when extracting question-answer pairs. We keep it for retrieval, not for the visual result."
+  },
+  "answer_engine_optimization_many_faqs_should": {
+    "id": "answer_engine_optimization_many_faqs_should",
+    "question": "How many FAQs should a page have?",
+    "answer": "We standardise on ten genuinely relevant questions per page. Fewer leaves coverage gaps; more usually means padding with questions nobody asks, which dilutes the page."
+  },
+  "answer_engine_optimization_aeo_help_voice": {
+    "id": "answer_engine_optimization_aeo_help_voice",
+    "question": "Can AEO help voice search?",
+    "answer": "Yes. Voice assistants read out a single answer, usually sourced from concise, well-structured passages, so the same formatting that wins snippets also wins voice results."
+  },
+  "answer_engine_optimization_content_types_work": {
+    "id": "answer_engine_optimization_content_types_work",
+    "question": "What content types work best for AEO?",
+    "answer": "Definitions, comparisons, pricing explanations, step-by-step processes, troubleshooting guides and 'how much / how long / what is' questions all convert well into extractable answers."
+  },
+  "answer_engine_optimization_i_need_change": {
+    "id": "answer_engine_optimization_i_need_change",
+    "question": "Do I need to change my whole website?",
+    "answer": "No. We start with the 10–20 pages that carry commercial intent, prove the pattern, then roll it across templates so new content is produced answer-first by default."
+  },
+  "answer_engine_optimization_quickly_aeo_work": {
+    "id": "answer_engine_optimization_quickly_aeo_work",
+    "question": "How quickly does AEO work?",
+    "answer": "Because it depends on re-crawling rather than authority building, AEO often shows movement in two to six weeks — faster than most SEO work."
+  },
+  "answer_engine_optimization_aeo_conflict_with": {
+    "id": "answer_engine_optimization_aeo_conflict_with",
+    "question": "Does AEO conflict with good writing?",
+    "answer": "No. Answer-first writing is simply clear writing: state the conclusion, then support it. Human readers prefer it too, which is why bounce rates usually improve."
+  }
+}

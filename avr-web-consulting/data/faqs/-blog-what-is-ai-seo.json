@@ -1,0 +1,42 @@
+{
+  "blog_what_is_ai_seo_traditional_seo_completely": {
+    "id": "blog_what_is_ai_seo_traditional_seo_completely",
+    "question": "Is traditional SEO completely dead because of AI?",
+    "answer": "No, traditional SEO is not dead. Fundamental practices like crawlability, technical site health, internal linking, and publishing helpful content remain absolutely foundational. AI SEO builds on top of these principles."
+  },
+  "blog_what_is_ai_seo_i_just_use": {
+    "id": "blog_what_is_ai_seo_i_just_use",
+    "question": "Can I just use AI to write all my website content?",
+    "answer": "No. While AI tools are excellent for research and outlining, relying on unedited AI to mass-produce content usually results in low-quality, generic material that search engines—including AI-powered ones—will ignore or penalize. Human oversight is mandatory."
+  },
+  "blog_what_is_ai_seo_i_optimize_ai": {
+    "id": "blog_what_is_ai_seo_i_optimize_ai",
+    "question": "How do I optimize for AI Overviews?",
+    "answer": "Optimizing for AI Overviews involves focusing on Answer Engine Optimization (AEO). Provide direct, concise answers to complex questions, use natural language, heavily utilize structured data, and establish strong topical authority in your niche."
+  },
+  "blog_what_is_ai_seo_keywords_still_matter": {
+    "id": "blog_what_is_ai_seo_keywords_still_matter",
+    "question": "Do keywords still matter in AI SEO?",
+    "answer": "Yes, but differently. The focus has shifted from exact-match keyword repetition to understanding the broader context, intent, and semantic relationships behind the words. Think in terms of topics and entities rather than isolated strings of text."
+  },
+  "blog_what_is_ai_seo_agency_guarantee_i": {
+    "id": "blog_what_is_ai_seo_agency_guarantee_i",
+    "question": "Can an agency guarantee I will appear in AI Search results?",
+    "answer": "No. Just like traditional SEO, no one can guarantee placement or citations in AI-generated summaries. The algorithms are constantly changing and evaluate hundreds of factors. Beware of any service making absolute guarantees."
+  },
+  "blog_what_is_ai_seo_difference_between_aeo": {
+    "id": "blog_what_is_ai_seo_difference_between_aeo",
+    "question": "What is the difference between AEO and AI SEO?",
+    "answer": "AI SEO is a broad umbrella term encompassing all optimization for AI-enhanced search. AEO (Answer Engine Optimization) is a specific strategy within AI SEO focused purely on providing direct, structured answers to conversational queries."
+  },
+  "blog_what_is_ai_seo_ai_seo_impact": {
+    "id": "blog_what_is_ai_seo_ai_seo_impact",
+    "question": "How does AI SEO impact local businesses?",
+    "answer": "It is highly impactful. AI assistants rely on structured data, consistent NAP (Name, Address, Phone) information, and authoritative citations to recommend local businesses. Combining AI SEO principles with strong Local SEO is crucial."
+  },
+  "blog_what_is_ai_seo_technical_seo_still": {
+    "id": "blog_what_is_ai_seo_technical_seo_still",
+    "question": "Is Technical SEO still important for AI Search?",
+    "answer": "It is more important than ever. If an AI crawler cannot access, parse, and understand the technical structure of your website, it cannot synthesize your content for its answers. Technical excellence is the prerequisite for AI visibility."
+  }
+}

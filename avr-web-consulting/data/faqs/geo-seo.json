@@ -1,0 +1,52 @@
+{
+  "geo_seo_geo_ai_search": {
+    "id": "geo_seo_geo_ai_search",
+    "question": "What is GEO in AI search?",
+    "answer": "GEO stands for Generative Engine Optimization: optimising content so generative AI systems include and cite it when writing answers. It focuses on quotability, evidence and structure rather than keyword rankings."
+  },
+  "geo_seo_geo_different_from": {
+    "id": "geo_seo_geo_different_from",
+    "question": "How is GEO different from AEO?",
+    "answer": "AEO is about being the extracted answer to a specific question. GEO is broader — being included as a source within a synthesised, multi-source response, and being described favourably in it."
+  },
+  "geo_seo_content_gets_cited": {
+    "id": "geo_seo_content_gets_cited",
+    "question": "What content gets cited most by generative engines?",
+    "answer": "Content with original statistics, named expert quotes, explicit comparisons, transparent pricing and clear sourcing. Generic 'ultimate guide' content without evidence is rarely selected."
+  },
+  "geo_seo_i_need_original": {
+    "id": "geo_seo_i_need_original",
+    "question": "Do I need original research to do GEO?",
+    "answer": "It helps enormously, but you can start with what you already own: aggregate client results, publish your pricing openly, and document benchmarks from your delivery data."
+  },
+  "geo_seo_track_geo_performance": {
+    "id": "geo_seo_track_geo_performance",
+    "question": "How do you track GEO performance?",
+    "answer": "We run a fixed prompt set across the major engines each month and record mention rate, citation rate, sentiment and competitor share, so change is measurable rather than anecdotal."
+  },
+  "geo_seo_geo_influence_model": {
+    "id": "geo_seo_geo_influence_model",
+    "question": "Can GEO influence what the model says about competitors?",
+    "answer": "Indirectly. Publishing accurate, well-sourced comparison content often becomes the material engines use when contrasting options, which shapes how the whole category is described."
+  },
+  "geo_seo_geo_relevant_small": {
+    "id": "geo_seo_geo_relevant_small",
+    "question": "Is GEO relevant for small businesses?",
+    "answer": "Yes, and often easier — niche categories have fewer authoritative sources, so a single well-structured, evidence-rich page can dominate the answers in that niche."
+  },
+  "geo_seo_long_geo_take": {
+    "id": "geo_seo_long_geo_take",
+    "question": "How long does GEO take?",
+    "answer": "Expect early movement in 4–8 weeks on niche prompts and three to six months for competitive category prompts where established publications currently dominate citations."
+  },
+  "geo_seo_geo_require_blocking": {
+    "id": "geo_seo_geo_require_blocking",
+    "question": "Does GEO require blocking or allowing crawlers?",
+    "answer": "Allowing them. Engines cannot cite what they cannot fetch, so GEO work begins by confirming GPTBot, ClaudeBot, PerplexityBot and Google-Extended are permitted in robots.txt."
+  },
+  "geo_seo_geo_permanent_discipline": {
+    "id": "geo_seo_geo_permanent_discipline",
+    "question": "Is GEO a permanent discipline or a trend?",
+    "answer": "The mechanics will keep changing, but the underlying requirement — publishing verifiable, well-structured, genuinely useful information — is durable regardless of which engines dominate."
+  }
+}

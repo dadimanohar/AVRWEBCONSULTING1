@@ -1,0 +1,52 @@
+{
+  "ecommerce_development_shopify_or_woocommerce": {
+    "id": "ecommerce_development_shopify_or_woocommerce",
+    "question": "Shopify or WooCommerce — which should I choose?",
+    "answer": "Shopify suits brands that want hosted reliability, straightforward payments and low maintenance. WooCommerce suits businesses that need deep customisation, complex pricing rules or tight integration with an existing WordPress content operation."
+  },
+  "ecommerce_development_much_ecommerce_site": {
+    "id": "ecommerce_development_much_ecommerce_site",
+    "question": "How much does an e-commerce site cost?",
+    "answer": "Small catalogues start around $900, while stores with several hundred products, custom filters and integrations typically run $2,000–$5,000. Migrations from an existing platform are quoted separately based on catalogue size and URL mapping work."
+  },
+  "ecommerce_development_long_store_build": {
+    "id": "ecommerce_development_long_store_build",
+    "question": "How long does a store build take?",
+    "answer": "Five to seven weeks for most projects: one week of architecture, two to three of design and build, one for catalogue loading and integrations, and one for QA, payment testing and launch."
+  },
+  "ecommerce_development_handle_product_data": {
+    "id": "ecommerce_development_handle_product_data",
+    "question": "Do you handle product data and imports?",
+    "answer": "Yes. We import catalogues from spreadsheets or an existing platform, normalise titles and attributes, generate SEO-friendly URLs and flag missing fields such as GTINs that would otherwise break Shopping feeds."
+  },
+  "ecommerce_development_will_my_product": {
+    "id": "ecommerce_development_will_my_product",
+    "question": "Will my product pages have schema markup?",
+    "answer": "Yes — Product, Offer, AggregateRating, Review and Breadcrumb schema on every product page, which drives rich results in Google and gives AI shopping assistants the structured facts they need to recommend you."
+  },
+  "ecommerce_development_improve_my_existing": {
+    "id": "ecommerce_development_improve_my_existing",
+    "question": "Can you improve my existing store's speed?",
+    "answer": "Yes. Common wins are image optimisation, removing unused apps and scripts, deferring third-party tags and fixing theme-level render blocking. On Shopify, app bloat is usually the single biggest cost to page speed."
+  },
+  "ecommerce_development_set_up_google": {
+    "id": "ecommerce_development_set_up_google",
+    "question": "Do you set up Google Merchant Center?",
+    "answer": "Yes, including feed creation, diagnostics, attribute mapping and custom labels for margin-based bidding, so Shopping and Performance Max campaigns can launch as soon as the store goes live."
+  },
+  "ecommerce_development_handle_international_selling": {
+    "id": "ecommerce_development_handle_international_selling",
+    "question": "How do you handle international selling?",
+    "answer": "With market-specific currency and pricing, localised content where it matters, correct hreflang between regional versions and shipping rules that are visible before checkout. For India-based exporters we also review tax and invoicing display."
+  },
+  "ecommerce_development_about_abandoned_carts": {
+    "id": "ecommerce_development_about_abandoned_carts",
+    "question": "What about abandoned carts?",
+    "answer": "We implement cart recovery emails, wallet and UPI payment options, guest checkout and transparent shipping costs shown early. Surprise costs at the final step remain the most common cause of abandonment we find in audits."
+  },
+  "ecommerce_development_offer_ongoing_store": {
+    "id": "ecommerce_development_offer_ongoing_store",
+    "question": "Do you offer ongoing store support?",
+    "answer": "Yes. Thirty days of post-launch support is included, and monthly maintenance covers updates, security, feed monitoring, conversion experiments and new category or landing page rollouts."
+  }
+}

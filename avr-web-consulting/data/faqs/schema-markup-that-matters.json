@@ -1,0 +1,27 @@
+{
+  "blog_schema_markup_that_matters_schema_improve_rankings": {
+    "id": "blog_schema_markup_that_matters_schema_improve_rankings",
+    "question": "Does schema improve rankings directly?",
+    "answer": "No. It improves how your content is understood and displayed, which improves click-through and AI citation likelihood."
+  },
+  "blog_schema_markup_that_matters_faqpage_schema_still": {
+    "id": "blog_schema_markup_that_matters_faqpage_schema_still",
+    "question": "Is FAQPage schema still useful?",
+    "answer": "Yes. Google reduced FAQ rich results for most sites, but the markup still helps answer engines and AI systems extract question-answer pairs."
+  },
+  "blog_schema_markup_that_matters_incorrect_schema_cause": {
+    "id": "blog_schema_markup_that_matters_incorrect_schema_cause",
+    "question": "Can incorrect schema cause a penalty?",
+    "answer": "Marking up content that is not visible to users can trigger a structured data manual action, so accuracy matters."
+  },
+  "blog_schema_markup_that_matters_jsonld_or_microdata": {
+    "id": "blog_schema_markup_that_matters_jsonld_or_microdata",
+    "question": "JSON-LD or microdata?",
+    "answer": "JSON-LD. It is Google's recommended format and far easier to maintain in modern frameworks."
+  },
+  "blog_schema_markup_that_matters_i_check_my": {
+    "id": "blog_schema_markup_that_matters_i_check_my",
+    "question": "How do I check my schema is working?",
+    "answer": "Use the Rich Results Test for eligibility and the Search Console enhancement reports to monitor errors at scale."
+  }
+}

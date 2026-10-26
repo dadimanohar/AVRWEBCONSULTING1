@@ -1,0 +1,52 @@
+{
+  "blog_what_is_geo_seo_geo_seo_stand": {
+    "id": "blog_what_is_geo_seo_geo_seo_stand",
+    "question": "What does GEO SEO stand for?",
+    "answer": "GEO stands for Generative Engine Optimization. It focuses on optimizing content for AI-powered search engines."
+  },
+  "blog_what_is_geo_seo_geo_same_as": {
+    "id": "blog_what_is_geo_seo_geo_same_as",
+    "question": "Is GEO the same as Local SEO?",
+    "answer": "No. GEO stands for Generative Engine Optimization, which is about AI search. Local or Geographic SEO focuses on ranking for location-based searches."
+  },
+  "blog_what_is_geo_seo_will_traditional_seo": {
+    "id": "blog_what_is_geo_seo_will_traditional_seo",
+    "question": "Will traditional SEO become obsolete?",
+    "answer": "No, traditional SEO remains a critical foundation. Search engines still need to crawl and index your site efficiently before AI models can use your content."
+  },
+  "blog_what_is_geo_seo_i_guarantee_my": {
+    "id": "blog_what_is_geo_seo_i_guarantee_my",
+    "question": "Can I guarantee my content will be cited by AI?",
+    "answer": "No. You cannot guarantee citations, featured snippets, or specific rankings. GEO increases your probability by providing high-quality, structured information."
+  },
+  "blog_what_is_geo_seo_geo_differ_from": {
+    "id": "blog_what_is_geo_seo_geo_differ_from",
+    "question": "How does GEO differ from AEO?",
+    "answer": "AEO (Answer Engine Optimization) is a subset of GEO focused specifically on providing direct answers to queries, whereas GEO encompasses a broader optimization for generative models."
+  },
+  "blog_what_is_geo_seo_why_eeat_important": {
+    "id": "blog_what_is_geo_seo_why_eeat_important",
+    "question": "Why is E-E-A-T important for GEO?",
+    "answer": "AI models are trained to prioritize trustworthy and authoritative sources. Strong E-E-A-T signals help establish your content as reliable enough to be synthesized and cited."
+  },
+  "blog_what_is_geo_seo_keywords_still_matter": {
+    "id": "blog_what_is_geo_seo_keywords_still_matter",
+    "question": "Do keywords still matter in GEO?",
+    "answer": "Yes, but the focus shifts from exact-match keywords to broader concepts, entities, and the underlying semantic context."
+  },
+  "blog_what_is_geo_seo_should_i_rewrite": {
+    "id": "blog_what_is_geo_seo_should_i_rewrite",
+    "question": "Should I rewrite all my old content for GEO?",
+    "answer": "Not necessarily all of it, but auditing and updating key pages to be more direct, structured, and comprehensive is highly recommended."
+  },
+  "blog_what_is_geo_seo_structured_data_schema": {
+    "id": "blog_what_is_geo_seo_structured_data_schema",
+    "question": "How do structured data and schema markup help?",
+    "answer": "Structured data explicitly tells search engines what your content is about, removing ambiguity and making it easier for AI models to understand and categorize your information."
+  },
+  "blog_what_is_geo_seo_long_it_take": {
+    "id": "blog_what_is_geo_seo_long_it_take",
+    "question": "How long does it take to see results from GEO?",
+    "answer": "Like traditional SEO, GEO is a long-term strategy. It takes time to build topical authority and trust signals that influence generative models."
+  }
+}

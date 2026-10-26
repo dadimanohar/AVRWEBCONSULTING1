@@ -1,0 +1,52 @@
+{
+  "blog_often_publish_new": {
+    "id": "blog_often_publish_new",
+    "question": "How often do you publish new articles?",
+    "answer": "We publish two to four in-depth articles a month and update older guides whenever search or AI behaviour changes materially."
+  },
+  "blog_who_writes_avr": {
+    "id": "blog_who_writes_avr",
+    "question": "Who writes the AVR blog?",
+    "answer": "The strategists and developers who deliver client work. Every article is written from live campaign experience, not summarised from other blogs."
+  },
+  "blog_content_aigenerated": {
+    "id": "blog_content_aigenerated",
+    "question": "Is the content AI-generated?",
+    "answer": "No. We use AI for research and editing support, but every article is written and fact-checked by a human practitioner."
+  },
+  "blog_i_republish_your": {
+    "id": "blog_i_republish_your",
+    "question": "Can I republish your articles?",
+    "answer": "You may quote short excerpts with a link back. Full republication requires written permission."
+  },
+  "blog_cover_topics_on": {
+    "id": "blog_cover_topics_on",
+    "question": "Do you cover topics on request?",
+    "answer": "Yes. Send a question through the contact page and if it is broadly useful we will write it up."
+  },
+  "blog_which_article_should": {
+    "id": "blog_which_article_should",
+    "question": "Which article should I read first?",
+    "answer": "Start with 'What is AI SEO' for the strategic picture, then the technical SEO checklist for immediate actions on your own site."
+  },
+  "blog_offer_newsletter": {
+    "id": "blog_offer_newsletter",
+    "question": "Do you offer a newsletter?",
+    "answer": "We send a short monthly digest of new articles and notable search or AI changes. Ask to be added when you contact us."
+  },
+  "blog_tactics_safe_my": {
+    "id": "blog_tactics_safe_my",
+    "question": "Are the tactics safe for my site?",
+    "answer": "Yes. Everything we publish follows search engine guidelines — we do not document manipulative tactics."
+  },
+  "blog_cover_markets_outside": {
+    "id": "blog_cover_markets_outside",
+    "question": "Do you cover markets outside India?",
+    "answer": "Yes. Our guides cover US, UK, UAE and European search behaviour alongside Indian markets."
+  },
+  "blog_avr_implement_these": {
+    "id": "blog_avr_implement_these",
+    "question": "Can AVR implement what these guides describe?",
+    "answer": "Yes. The guides document the exact processes we run for clients with customized plans. Request an audit to start."
+  }
+}

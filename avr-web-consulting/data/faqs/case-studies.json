@@ -1,0 +1,52 @@
+{
+  "case_studies_these_case_study": {
+    "id": "case_studies_these_case_study",
+    "question": "Are these case study results real?",
+    "answer": "Yes. Every figure comes from client Search Console, GA4 and CRM data, with baselines recorded before work started. Client names are withheld where permission was not granted."
+  },
+  "case_studies_long_before_i": {
+    "id": "case_studies_long_before_i",
+    "question": "How long before I see results like these?",
+    "answer": "Technical and on-page gains typically show within 30-60 days, ranking movement in 60-90 days, and compounding traffic or revenue growth from month four onward."
+  },
+  "case_studies_have_case_studies": {
+    "id": "case_studies_have_case_studies",
+    "question": "Do you have case studies in my industry?",
+    "answer": "We document e-commerce, SaaS, healthcare, legal, real estate and manufacturing here, and have delivered work in startups, education, travel, fashion and finance. Ask for relevant references."
+  },
+  "case_studies_was_typical_budget": {
+    "id": "case_studies_was_typical_budget",
+    "question": "What was the typical budget for these projects?",
+    "answer": "Engagements are tailored to project scope and competitiveness, typically scaling with content volume, location breadth, and technical complexity."
+  },
+  "case_studies_did_any_these": {
+    "id": "case_studies_did_any_these",
+    "question": "Did any of these clients get penalised later?",
+    "answer": "No. All work is manual and compliant with search engine spam policies, so gains have held through subsequent Google core updates."
+  },
+  "case_studies_track_ai_assistant": {
+    "id": "case_studies_track_ai_assistant",
+    "question": "How do you track AI assistant citations?",
+    "answer": "We run a fixed monthly prompt set across ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews, logging whether the brand is named, linked or omitted."
+  },
+  "case_studies_guarantee_same_results": {
+    "id": "case_studies_guarantee_same_results",
+    "question": "Can you guarantee the same results for me?",
+    "answer": "No agency can guarantee specific rankings or revenue. We guarantee the method, the deliverables and transparent reporting against baselines we agree upfront."
+  },
+  "case_studies_work_with_small": {
+    "id": "case_studies_work_with_small",
+    "question": "Do you work with small budgets?",
+    "answer": "Yes. We design customized plans for single-location businesses who need local visibility as well as enterprise campaigns."
+  },
+  "case_studies_will_show_my": {
+    "id": "case_studies_will_show_my",
+    "question": "Will you show my business as a case study?",
+    "answer": "Only with your written permission, and we can anonymise the brand while keeping verified metrics."
+  },
+  "case_studies_i_start_project": {
+    "id": "case_studies_i_start_project",
+    "question": "How do I start a project like these?",
+    "answer": "Request an audit on the contact page. We benchmark your site against competitors and send priorities plus a tailored proposal within one business day."
+  }
+}

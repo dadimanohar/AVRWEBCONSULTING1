@@ -1,0 +1,27 @@
+{
+  "blog_aeo_vs_geo_vs_llmo_geo_same_as": {
+    "id": "blog_aeo_vs_geo_vs_llmo_geo_same_as",
+    "question": "Is GEO the same as local SEO's geo-targeting?",
+    "answer": "No. In AI search, GEO means Generative Engine Optimization. Geographic targeting is a separate discipline within local and international SEO."
+  },
+  "blog_aeo_vs_geo_vs_llmo_which_should_i": {
+    "id": "blog_aeo_vs_geo_vs_llmo_which_should_i",
+    "question": "Which should I do first, AEO or GEO?",
+    "answer": "AEO first. Answer-first formatting is cheap, improves conversions and is the prerequisite for being extractable by generative engines."
+  },
+  "blog_aeo_vs_geo_vs_llmo_small_businesses_llmo": {
+    "id": "blog_aeo_vs_geo_vs_llmo_small_businesses_llmo",
+    "question": "Can small businesses do LLMO?",
+    "answer": "Yes, and it is often easier — cleaning up a handful of profiles and getting consistent citations moves the needle fast for smaller entities."
+  },
+  "blog_aeo_vs_geo_vs_llmo_these_tactics_hurt": {
+    "id": "blog_aeo_vs_geo_vs_llmo_these_tactics_hurt",
+    "question": "Do these tactics hurt traditional rankings?",
+    "answer": "No. Clear structure, schema and factual accuracy align with Google's helpful content guidance and generally help rankings."
+  },
+  "blog_aeo_vs_geo_vs_llmo_i_know_which": {
+    "id": "blog_aeo_vs_geo_vs_llmo_i_know_which",
+    "question": "How do I know which one I am failing at?",
+    "answer": "Run your prompt set: absent from snippets means AEO, absent from AI Overviews means GEO, described incorrectly by the model means LLMO."
+  }
+}

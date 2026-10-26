@@ -1,0 +1,52 @@
+{
+  "seo_services_much_your_seo": {
+    "id": "seo_services_much_your_seo",
+    "question": "How much do your SEO services cost?",
+    "answer": "SEO retainers start at $200 per month for global SEO and $100 per month for local SEO. Guest posts start at $20 per placement. Final pricing depends on the number of target keywords, languages and markets; you get a fixed monthly figure before work begins."
+  },
+  "seo_services_long_seo_take": {
+    "id": "seo_services_long_seo_take",
+    "question": "How long does SEO take to show results?",
+    "answer": "Technical fixes and on-page improvements often move rankings within 4–8 weeks. Competitive commercial keywords typically take 4–6 months of consistent content and link building. Local SEO and citation work usually shows movement in the map pack within 30–60 days."
+  },
+  "seo_services_guarantee_firstpage_rankings": {
+    "id": "seo_services_guarantee_firstpage_rankings",
+    "question": "Do you guarantee first-page rankings?",
+    "answer": "No credible agency can guarantee a specific position, because ranking systems are controlled by Google and AI engines. We guarantee deliverables, timelines and transparent reporting, and we track ranking, traffic and conversion trends so progress is measurable."
+  },
+  "seo_services_which_countries_provide": {
+    "id": "seo_services_which_countries_provide",
+    "question": "Which countries do you provide SEO services in?",
+    "answer": "We serve clients globally, with focus markets in the United States, United Kingdom, United Arab Emirates and Europe, plus national coverage across India including Delhi, Mumbai, Chennai, Bangalore, Hyderabad and Visakhapatnam."
+  },
+  "seo_services_your_link_building": {
+    "id": "seo_services_your_link_building",
+    "question": "Is your link building safe?",
+    "answer": "Yes. All links and citations are placed manually on real, indexed sites with genuine traffic. We do not use private blog networks, automated tools or link farms, which is why our clients avoid manual actions and algorithmic penalties."
+  },
+  "seo_services_work_with_small": {
+    "id": "seo_services_work_with_small",
+    "question": "Do you work with small businesses and startups?",
+    "answer": "Yes. A large part of our client base is small businesses, local service providers and early-stage startups. Local SEO from $100 per month is designed specifically for businesses that need enquiries rather than vanity traffic."
+  },
+  "seo_services_reporting_provide": {
+    "id": "seo_services_reporting_provide",
+    "question": "What reporting do you provide?",
+    "answer": "You receive a monthly report covering keyword rankings, organic sessions, conversions, links and citations built, technical health and AI-answer visibility, along with a short written summary of what changed and what happens next."
+  },
+  "seo_services_fix_existing_site": {
+    "id": "seo_services_fix_existing_site",
+    "question": "Can you fix an existing site or do you need to rebuild it?",
+    "answer": "In most cases we optimise the existing site. Rebuilds are only recommended when the platform blocks indexation, speed or schema — and we will tell you plainly if that is the case rather than selling a redesign by default."
+  },
+  "seo_services_your_seo_packages": {
+    "id": "seo_services_your_seo_packages",
+    "question": "Do your SEO packages include content writing?",
+    "answer": "Yes. Content briefs and answer-first article production are included in all standard retainers. Volume depends on the package; additional articles and landing pages can be added at any time."
+  },
+  "seo_services_seo_different_from": {
+    "id": "seo_services_seo_different_from",
+    "question": "How is SEO different from AI SEO?",
+    "answer": "Classic SEO optimises for ranked links in Google and Bing. AI SEO — AEO, GEO, LLM SEO and LLMO — optimises for being quoted inside AI answers from ChatGPT, Gemini, Perplexity, Copilot and Google AI Overviews. We run both together because users now move between them."
+  }
+}

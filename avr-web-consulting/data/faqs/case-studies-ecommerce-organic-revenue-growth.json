@@ -1,0 +1,52 @@
+{
+  "ecommerce_organic_revenue_growth_long_did_this": {
+    "id": "ecommerce_organic_revenue_growth_long_did_this",
+    "question": "How long did this e-commerce project take to show results?",
+    "answer": "First measurable movement appeared within 60-90 days, and the headline numbers above were achieved over 9 months of continuous work."
+  },
+  "ecommerce_organic_revenue_growth_services_were_used": {
+    "id": "ecommerce_organic_revenue_growth_services_were_used",
+    "question": "What services were used in this case study?",
+    "answer": "Technical SEO + content + AI SEO. The mix was set by the audit findings rather than a fixed package."
+  },
+  "ecommerce_organic_revenue_growth_was_any_paid": {
+    "id": "ecommerce_organic_revenue_growth_was_any_paid",
+    "question": "Was any paid advertising involved in these organic numbers?",
+    "answer": "Organic metrics reported here exclude paid traffic. Where paid campaigns ran, they are reported separately in the results table."
+  },
+  "ecommerce_organic_revenue_growth_these_results_be": {
+    "id": "ecommerce_organic_revenue_growth_these_results_be",
+    "question": "Can these results be replicated for my business?",
+    "answer": "Results depend on your market's competitiveness, your site's current state and budget. The method is repeatable; the exact percentages are not guaranteed."
+  },
+  "ecommerce_organic_revenue_growth_much_would_project": {
+    "id": "ecommerce_organic_revenue_growth_much_would_project",
+    "question": "How much would a project like this cost?",
+    "answer": "Programs of this scope typically run between $300 and $600 per month with AVR Web Consulting, depending on content volume and number of markets."
+  },
+  "ecommerce_organic_revenue_growth_was_any_content": {
+    "id": "ecommerce_organic_revenue_growth_was_any_content",
+    "question": "Was any of the content AI-generated?",
+    "answer": "No. All content was researched and written by humans, then structured so that AI systems can extract and cite it accurately."
+  },
+  "ecommerce_organic_revenue_growth_were_ai_citations": {
+    "id": "ecommerce_organic_revenue_growth_were_ai_citations",
+    "question": "How were AI citations measured?",
+    "answer": "We ran a fixed monthly prompt set across ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews, recording whether the brand was named or linked."
+  },
+  "ecommerce_organic_revenue_growth_did_rankings_hold": {
+    "id": "ecommerce_organic_revenue_growth_did_rankings_hold",
+    "question": "Did rankings hold after the engagement?",
+    "answer": "Yes. Because the work is manual and policy-compliant, gains have held through subsequent core updates rather than reversing."
+  },
+  "ecommerce_organic_revenue_growth_share_clients_name": {
+    "id": "ecommerce_organic_revenue_growth_share_clients_name",
+    "question": "Do you share the client's name?",
+    "answer": "Only with written permission. Several clients prefer anonymity, so we describe the business type, market and verified metrics instead."
+  },
+  "ecommerce_organic_revenue_growth_i_get_audit": {
+    "id": "ecommerce_organic_revenue_growth_i_get_audit",
+    "question": "How do I get an audit for my own site?",
+    "answer": "Request an audit from the contact page. You will receive findings, priorities and a fixed monthly quote within one business day."
+  }
+}

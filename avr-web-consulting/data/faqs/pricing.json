@@ -1,0 +1,52 @@
+{
+  "pricing_project_pricing_determined": {
+    "id": "pricing_project_pricing_determined",
+    "question": "How is project pricing determined?",
+    "answer": "Because every business has different competition levels, target markets, and project goals, our pricing is customized to your exact requirements. We provide a transparent scope and quote after understanding your project."
+  },
+  "pricing_there_minimum_contract": {
+    "id": "pricing_there_minimum_contract",
+    "question": "Is there a minimum contract?",
+    "answer": "No. Every engagement is month-to-month. We ask for a fair 3-month view because SEO compounds, but you can cancel any month with 15 days' notice."
+  },
+  "pricing_why_avr_web": {
+    "id": "pricing_why_avr_web",
+    "question": "Why is AVR Web Consulting cost-effective?",
+    "answer": "We run a lean, senior team from Visakhapatnam, India, with no expensive sales layer. You pay directly for senior execution hours and strategy, not agency bloat."
+  },
+  "pricing_competitive_pricing_mean": {
+    "id": "pricing_competitive_pricing_mean",
+    "question": "Does competitive pricing mean low quality?",
+    "answer": "No. Our competitive rates come from our efficient delivery model in India, not shortcuts. All work is manual and white-hat — no PBNs, no automated links, no scraped content."
+  },
+  "pricing_ai_seo_addon": {
+    "id": "pricing_ai_seo_addon",
+    "question": "What does the AI SEO add-on include?",
+    "answer": "Answer-first content rewrites, entity and schema work, llms.txt and crawler access setup, plus monthly tracking of how often ChatGPT, Gemini, Perplexity and Google AI Overviews cite your brand."
+  },
+  "pricing_charge_setup_fee": {
+    "id": "pricing_charge_setup_fee",
+    "question": "Do you charge a setup fee?",
+    "answer": "No setup fee. The initial audit, keyword map and technical fix list are included in your first month."
+  },
+  "pricing_bill_international_clients": {
+    "id": "pricing_bill_international_clients",
+    "question": "How do you bill international clients?",
+    "answer": "US, UK, UAE and EU clients are billed in USD via bank transfer, Wise or card. Indian clients are billed in INR with GST invoices."
+  },
+  "pricing_i_buy_oneoff": {
+    "id": "pricing_i_buy_oneoff",
+    "question": "Can I buy a one-off audit instead of an ongoing plan?",
+    "answer": "Yes. A full technical, on-page and AI visibility audit is available as a standalone deliverable, and that fee is credited if you start an ongoing plan within 30 days."
+  },
+  "pricing_results_should_i": {
+    "id": "pricing_results_should_i",
+    "question": "What results should I expect from our services?",
+    "answer": "Typically measurable technical and on-page gains in 30 days, first ranking movement in 60-90 days, and compounding traffic growth from month 4. Competitive national terms take longer."
+  },
+  "pricing_prices_include_ad": {
+    "id": "pricing_prices_include_ad",
+    "question": "Do prices include ad spend?",
+    "answer": "No. Management fees are separate from ad budget, which you pay directly to Google or Meta so you keep full ownership of the ad accounts."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "ai_seo_ai_seo": {
+    "id": "ai_seo_ai_seo",
+    "question": "What is AI SEO?",
+    "answer": "AI SEO is optimisation for AI-powered answer engines. It makes your content retrievable, quotable and attributable so assistants such as ChatGPT, Gemini, Perplexity, Copilot and Google AI Overviews name your brand when answering relevant questions."
+  },
+  "ai_seo_ai_seo_different": {
+    "id": "ai_seo_ai_seo_different",
+    "question": "Is AI SEO different from traditional SEO?",
+    "answer": "It overlaps but is not identical. Traditional SEO competes for ranked links; AI SEO competes for inclusion inside a synthesised answer. Content format, entity consistency and structured data matter more, and success is measured in citations rather than positions."
+  },
+  "ai_seo_ai_seo_replace": {
+    "id": "ai_seo_ai_seo_replace",
+    "question": "Does AI SEO replace normal SEO?",
+    "answer": "No. Most assistants retrieve from live search results, so poor crawlability or weak authority still blocks you. AI SEO is a layer on top of technically sound, authoritative SEO."
+  },
+  "ai_seo_measure_ai_visibility": {
+    "id": "ai_seo_measure_ai_visibility",
+    "question": "How do you measure AI visibility?",
+    "answer": "We maintain a prompt set of real buyer questions and run it monthly across the major assistants, recording whether your brand is mentioned, cited with a link, described accurately, and how that compares to competitors."
+  },
+  "ai_seo_long_ai_seo": {
+    "id": "ai_seo_long_ai_seo",
+    "question": "How long does AI SEO take to show results?",
+    "answer": "Retrieval improvements from structured data and content reformatting can appear within 2–6 weeks. Entity and authority work — the part that makes models recommend you unprompted — typically takes three to six months."
+  },
+  "ai_seo_control_ai_says": {
+    "id": "ai_seo_control_ai_says",
+    "question": "Can you control what an AI says about my brand?",
+    "answer": "You cannot control it directly, but you can strongly influence it by publishing clear, consistent, well-structured facts about your business and getting those facts repeated on sources the models trust."
+  },
+  "ai_seo_should_i_block": {
+    "id": "ai_seo_should_i_block",
+    "question": "Should I block AI crawlers?",
+    "answer": "If you want AI visibility, no. Blocking GPTBot, ClaudeBot, PerplexityBot or Google-Extended removes you from those systems. We configure robots.txt deliberately so you allow the engines you want to appear in."
+  },
+  "ai_seo_llmstxt": {
+    "id": "ai_seo_llmstxt",
+    "question": "What is llms.txt?",
+    "answer": "llms.txt is a plain-text file at the root of a site that summarises what the site offers and links to key pages in a machine-friendly way. It is an emerging convention we implement as part of LLMO work."
+  },
+  "ai_seo_ai_seo_work": {
+    "id": "ai_seo_ai_seo_work",
+    "question": "Does AI SEO work for local businesses?",
+    "answer": "Yes. Prompts like 'best dentist near Dondaparthy' are answered from directories, reviews and structured data, so clean NAP, LocalBusiness schema and review content directly affect whether you are recommended."
+  },
+  "ai_seo_much_ai_seo": {
+    "id": "ai_seo_much_ai_seo",
+    "question": "How much does AI SEO cost?",
+    "answer": "AI SEO packages are priced alongside our SEO retainers and start from a baseline audit; most clients run AI SEO as an add-on layer to an existing SEO programme. See our AI SEO packages page for current tiers."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "n8n_automation_n8n": {
+    "id": "n8n_automation_n8n",
+    "question": "What is n8n?",
+    "answer": "n8n is a workflow automation platform that connects applications, APIs, databases and services, so a sequence of steps can run automatically from a trigger such as a form submission or a schedule."
+  },
+  "n8n_automation_types_business_workflows": {
+    "id": "n8n_automation_types_business_workflows",
+    "question": "What types of business workflows can be automated?",
+    "answer": "Common examples include lead collection and notification, form-to-email routing, CRM updates, data synchronisation between systems, scheduled reporting and other repeatable internal processes."
+  },
+  "n8n_automation_n8n_connect_different": {
+    "id": "n8n_automation_n8n_connect_different",
+    "question": "Can n8n connect different applications?",
+    "answer": "Yes. n8n connects applications through their available integrations, and through generic HTTP and webhook steps when a service exposes an API."
+  },
+  "n8n_automation_n8n_work_with": {
+    "id": "n8n_automation_n8n_work_with",
+    "question": "Can n8n work with APIs?",
+    "answer": "Yes. Workflows can call external APIs, receive webhooks, send and transform JSON, and pass the results into later steps."
+  },
+  "n8n_automation_automated_workflows_need": {
+    "id": "n8n_automation_automated_workflows_need",
+    "question": "Do automated workflows need maintenance?",
+    "answer": "Yes. Connected services change, credentials expire and business rules evolve, so workflows need monitoring and periodic updates to keep running correctly."
+  },
+  "n8n_automation_will_automation_replace": {
+    "id": "n8n_automation_will_automation_replace",
+    "question": "Will automation replace our staff?",
+    "answer": "That is not how we position it. Automation is best used for repetitive, rule-based steps so that people can spend their time on work that needs judgement."
+  },
+  "n8n_automation_happens_if_workflow": {
+    "id": "n8n_automation_happens_if_workflow",
+    "question": "What happens if a workflow fails?",
+    "answer": "We build error handling into workflows so failures are logged and notified rather than silent, and where appropriate the step is retried or queued for manual review."
+  },
+  "n8n_automation_automate_process_we": {
+    "id": "n8n_automation_automate_process_we",
+    "question": "Can you automate a process we have not documented?",
+    "answer": "We start by mapping the process with your team. Documenting the steps is part of the work, because an unclear process cannot be automated reliably."
+  },
+  "n8n_automation_credentials_data_handled": {
+    "id": "n8n_automation_credentials_data_handled",
+    "question": "How are credentials and data handled?",
+    "answer": "Credentials are stored in the platform's credential store rather than inside workflows, access is limited to what each connection needs, and we agree with you what data a workflow is allowed to move."
+  },
+  "n8n_automation_n8n_work_together": {
+    "id": "n8n_automation_n8n_work_together",
+    "question": "Can n8n work together with AI agents?",
+    "answer": "Yes. A common pattern is an AI agent interpreting a request and an n8n workflow carrying out the resulting actions in your connected applications."
+  }
+}

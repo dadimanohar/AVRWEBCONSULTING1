@@ -1,0 +1,52 @@
+{
+  "vibe_coding_ai_assisted_development_vibe_coding": {
+    "id": "vibe_coding_ai_assisted_development_vibe_coding",
+    "question": "What is vibe coding?",
+    "answer": "Vibe coding is an AI-assisted development approach where developers use AI tools to generate, modify, explore and debug code through natural-language instructions and quick iteration, with the developer reviewing and directing the work."
+  },
+  "vibe_coding_ai_assisted_development_ai_replacing_developers": {
+    "id": "vibe_coding_ai_assisted_development_ai_replacing_developers",
+    "question": "Is AI replacing developers?",
+    "answer": "No. AI tools speed up parts of implementation, but architecture, security, data modelling, testing and the judgement about whether the result is correct still require a developer."
+  },
+  "vibe_coding_ai_assisted_development_build_complete_websites": {
+    "id": "vibe_coding_ai_assisted_development_build_complete_websites",
+    "question": "Can you build complete websites using AI-assisted development?",
+    "answer": "Yes, complete websites and applications can be delivered this way, but the code is reviewed, tested and adjusted by developers before release rather than shipped straight from a tool."
+  },
+  "vibe_coding_ai_assisted_development_technologies_be_used": {
+    "id": "vibe_coding_ai_assisted_development_technologies_be_used",
+    "question": "What technologies can be used?",
+    "answer": "The same technologies we use in conventional projects: React, JavaScript, HTML and CSS on the frontend, Node.js, Python or Java on the backend, and databases with JSON for data and integrations."
+  },
+  "vibe_coding_ai_assisted_development_aigenerated_code_reviewed": {
+    "id": "vibe_coding_ai_assisted_development_aigenerated_code_reviewed",
+    "question": "Is AI-generated code reviewed and tested?",
+    "answer": "Yes. Every change is read by a developer and tested functionally and across devices before deployment, because AI tools can produce code that looks correct but behaves incorrectly."
+  },
+  "vibe_coding_ai_assisted_development_aiassisted_development_cheaper": {
+    "id": "vibe_coding_ai_assisted_development_aiassisted_development_cheaper",
+    "question": "Is AI-assisted development cheaper?",
+    "answer": "It can reduce the time spent on repetitive implementation, which affects cost on some projects. It does not remove the time needed for planning, review, testing and maintenance."
+  },
+  "vibe_coding_ai_assisted_development_will_code_be": {
+    "id": "vibe_coding_ai_assisted_development_will_code_be",
+    "question": "Will the code be maintainable by other developers?",
+    "answer": "That is the intention. We keep to standard frameworks and conventional project structure, and we document the setup, so the codebase does not depend on any particular tool."
+  },
+  "vibe_coding_ai_assisted_development_use_ai_on": {
+    "id": "vibe_coding_ai_assisted_development_use_ai_on",
+    "question": "Do you use AI on every project?",
+    "answer": "No. It is applied where it helps, mainly prototyping, UI implementation and routine work. Sensitive or complex logic is written and reviewed carefully by hand."
+  },
+  "vibe_coding_ai_assisted_development_aiassisted_code_secure": {
+    "id": "vibe_coding_ai_assisted_development_aiassisted_code_secure",
+    "question": "Is AI-assisted code secure?",
+    "answer": "No code is secure simply because of how it was written. We review authentication, input validation, permissions and credential handling as a separate step, regardless of whether AI tools were involved."
+  },
+  "vibe_coding_ai_assisted_development_improve_existing_project": {
+    "id": "vibe_coding_ai_assisted_development_improve_existing_project",
+    "question": "Can you improve an existing project using this approach?",
+    "answer": "Yes. AI-assisted workflows are often useful for refactoring, debugging and adding features to an existing codebase, provided a developer understands the code before changing it."
+  }
+}

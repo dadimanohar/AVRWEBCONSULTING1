@@ -1,0 +1,1088 @@
+{
+  "home": {
+    "file": "home.json",
+    "title": "Home",
+    "category": "Home",
+    "count": 10
+  },
+  "seo-services": {
+    "file": "seo-services.json",
+    "title": "SEO Services for Business Websites",
+    "category": "SEO Services",
+    "count": 10
+  },
+  "seo-services/global-seo": {
+    "file": "global-seo.json",
+    "title": "Organic SEO Agency and Consultant",
+    "category": "SEO Services",
+    "count": 10
+  },
+  "global-seo": {
+    "file": "global-seo.json",
+    "title": "Organic SEO Agency and Consultant",
+    "category": "SEO Services",
+    "count": 10
+  },
+  "seo-services/local-seo": {
+    "file": "local-seo.json",
+    "title": "Local SEO Agency for Small Businesses",
+    "category": "SEO Services",
+    "count": 10
+  },
+  "local-seo": {
+    "file": "local-seo.json",
+    "title": "Local SEO Agency for Small Businesses",
+    "category": "SEO Services",
+    "count": 10
+  },
+  "seo-services/technical-seo": {
+    "file": "technical-seo.json",
+    "title": "SEO Website Optimization Services",
+    "category": "SEO Services",
+    "count": 10
+  },
+  "technical-seo": {
+    "file": "technical-seo.json",
+    "title": "SEO Website Optimization Services",
+    "category": "SEO Services",
+    "count": 10
+  },
+  "seo-services/geo-targeting-seo": {
+    "file": "geo-targeting-seo.json",
+    "title": "Multi Location SEO for Growing Brands",
+    "category": "SEO Services",
+    "count": 10
+  },
+  "geo-targeting-seo": {
+    "file": "geo-targeting-seo.json",
+    "title": "Multi Location SEO for Growing Brands",
+    "category": "SEO Services",
+    "count": 10
+  },
+  "seo-services/local-citations-gmb": {
+    "file": "local-citations-gmb.json",
+    "title": "Google My Business SEO Services",
+    "category": "SEO Services",
+    "count": 7
+  },
+  "local-citations-gmb": {
+    "file": "local-citations-gmb.json",
+    "title": "Google My Business SEO Services",
+    "category": "SEO Services",
+    "count": 7
+  },
+  "seo-services/dental-seo-services": {
+    "file": "dental-seo-services.json",
+    "title": "Dental SEO Services",
+    "category": "SEO Services",
+    "count": 10
+  },
+  "dental-seo-services": {
+    "file": "dental-seo-services.json",
+    "title": "Dental SEO Services",
+    "category": "SEO Services",
+    "count": 10
+  },
+  "seo-services/locksmith-seo": {
+    "file": "locksmith-seo.json",
+    "title": "Locksmith SEO Services",
+    "category": "SEO Services",
+    "count": 10
+  },
+  "locksmith-seo": {
+    "file": "locksmith-seo.json",
+    "title": "Locksmith SEO Services",
+    "category": "SEO Services",
+    "count": 10
+  },
+  "seo-services/car-dealership-seo": {
+    "file": "car-dealership-seo.json",
+    "title": "Car Dealership SEO Services",
+    "category": "SEO Services",
+    "count": 10
+  },
+  "car-dealership-seo": {
+    "file": "car-dealership-seo.json",
+    "title": "Car Dealership SEO Services",
+    "category": "SEO Services",
+    "count": 10
+  },
+  "seo-services/real-estate-seo-services": {
+    "file": "real-estate-seo-services.json",
+    "title": "Real Estate SEO Services",
+    "category": "SEO Services",
+    "count": 10
+  },
+  "real-estate-seo-services": {
+    "file": "real-estate-seo-services.json",
+    "title": "Real Estate SEO Services",
+    "category": "SEO Services",
+    "count": 10
+  },
+  "ai-seo": {
+    "file": "ai-seo.json",
+    "title": "AI SEO Optimization for Smarter Content",
+    "category": "AI SEO",
+    "count": 10
+  },
+  "ai-seo/answer-engine-optimization": {
+    "file": "answer-engine-optimization.json",
+    "title": "Answer Engine Optimization (AEO) Services",
+    "category": "AI SEO",
+    "count": 10
+  },
+  "answer-engine-optimization": {
+    "file": "answer-engine-optimization.json",
+    "title": "Answer Engine Optimization (AEO) Services",
+    "category": "AI SEO",
+    "count": 10
+  },
+  "ai-seo/geo-seo": {
+    "file": "geo-seo.json",
+    "title": "GEO",
+    "category": "AI SEO",
+    "count": 10
+  },
+  "geo-seo": {
+    "file": "geo-seo.json",
+    "title": "GEO",
+    "category": "AI SEO",
+    "count": 10
+  },
+  "ai-seo/llm-seo": {
+    "file": "llm-seo.json",
+    "title": "LLM Search Optimization Services",
+    "category": "AI SEO",
+    "count": 10
+  },
+  "llm-seo": {
+    "file": "llm-seo.json",
+    "title": "LLM Search Optimization Services",
+    "category": "AI SEO",
+    "count": 10
+  },
+  "ai-seo/llmo": {
+    "file": "llmo.json",
+    "title": "LLMO",
+    "category": "AI SEO",
+    "count": 10
+  },
+  "llmo": {
+    "file": "llmo.json",
+    "title": "LLMO",
+    "category": "AI SEO",
+    "count": 10
+  },
+  "ai-seo/ai-visibility": {
+    "file": "ai-visibility.json",
+    "title": "AI Visibility Optimization Services",
+    "category": "AI SEO",
+    "count": 10
+  },
+  "ai-visibility": {
+    "file": "ai-visibility.json",
+    "title": "AI Visibility Optimization Services",
+    "category": "AI SEO",
+    "count": 10
+  },
+  "ai-seo/ai-overviews": {
+    "file": "ai-overviews.json",
+    "title": "How to Enable Google AI Search",
+    "category": "AI SEO",
+    "count": 10
+  },
+  "ai-overviews": {
+    "file": "ai-overviews.json",
+    "title": "How to Enable Google AI Search",
+    "category": "AI SEO",
+    "count": 10
+  },
+  "ai-seo/ai-citations-mentions": {
+    "file": "ai-citations-mentions.json",
+    "title": "AI Citations & Brand Mentions Services",
+    "category": "AI SEO",
+    "count": 10
+  },
+  "ai-citations-mentions": {
+    "file": "ai-citations-mentions.json",
+    "title": "AI Citations & Brand Mentions Services",
+    "category": "AI SEO",
+    "count": 10
+  },
+  "ai-seo/ai-retrieval-systems": {
+    "file": "ai-retrieval-systems.json",
+    "title": "AI Retrieval System Optimisation & Data Structuring",
+    "category": "AI SEO",
+    "count": 10
+  },
+  "ai-retrieval-systems": {
+    "file": "ai-retrieval-systems.json",
+    "title": "AI Retrieval System Optimisation & Data Structuring",
+    "category": "AI SEO",
+    "count": 10
+  },
+  "paid-advertising": {
+    "file": "paid-advertising.json",
+    "title": "Paid Advertising Agency",
+    "category": "Paid Advertising",
+    "count": 10
+  },
+  "paid-advertising/google-ads": {
+    "file": "google-ads.json",
+    "title": "Search Engine Marketing Consultant",
+    "category": "Paid Advertising",
+    "count": 10
+  },
+  "google-ads": {
+    "file": "google-ads.json",
+    "title": "Search Engine Marketing Consultant",
+    "category": "Paid Advertising",
+    "count": 10
+  },
+  "paid-advertising/social-media-ads": {
+    "file": "social-media-ads.json",
+    "title": "Social Media Ads",
+    "category": "Paid Advertising",
+    "count": 10
+  },
+  "social-media-ads": {
+    "file": "social-media-ads.json",
+    "title": "Social Media Ads",
+    "category": "Paid Advertising",
+    "count": 10
+  },
+  "paid-advertising/social-media-marketing": {
+    "file": "social-media-marketing.json",
+    "title": "Social Media Marketing Services",
+    "category": "Paid Advertising",
+    "count": 10
+  },
+  "social-media-marketing": {
+    "file": "social-media-marketing.json",
+    "title": "Social Media Marketing Services",
+    "category": "Paid Advertising",
+    "count": 10
+  },
+  "content-marketing": {
+    "file": "content-marketing.json",
+    "title": "Content Marketing Services",
+    "category": "Content Marketing",
+    "count": 10
+  },
+  "content-marketing/blogging-copywriting": {
+    "file": "blogging-copywriting.json",
+    "title": "SEO Content Writing Services for Your Website",
+    "category": "Content Marketing",
+    "count": 10
+  },
+  "blogging-copywriting": {
+    "file": "blogging-copywriting.json",
+    "title": "SEO Content Writing Services for Your Website",
+    "category": "Content Marketing",
+    "count": 10
+  },
+  "content-marketing/guest-posting-link-building": {
+    "file": "guest-posting-link-building.json",
+    "title": "Manual Link Building Services",
+    "category": "Content Marketing",
+    "count": 10
+  },
+  "guest-posting-link-building": {
+    "file": "guest-posting-link-building.json",
+    "title": "Manual Link Building Services",
+    "category": "Content Marketing",
+    "count": 10
+  },
+  "web-design-development": {
+    "file": "web-design-development.json",
+    "title": "Website Design and SEO Services",
+    "category": "Web Design & Development",
+    "count": 10
+  },
+  "web-design-development/wordpress-development": {
+    "file": "wordpress-development.json",
+    "title": "WordPress SEO Services and Expert Help",
+    "category": "Web Design & Development",
+    "count": 10
+  },
+  "wordpress-development": {
+    "file": "wordpress-development.json",
+    "title": "WordPress SEO Services and Expert Help",
+    "category": "Web Design & Development",
+    "count": 10
+  },
+  "web-design-development/ecommerce-development": {
+    "file": "ecommerce-development.json",
+    "title": "E-commerce Development",
+    "category": "Web Design & Development",
+    "count": 10
+  },
+  "ecommerce-development": {
+    "file": "ecommerce-development.json",
+    "title": "E-commerce Development",
+    "category": "Web Design & Development",
+    "count": 10
+  },
+  "web-design-development/full-stack-web-development": {
+    "file": "full-stack-web-development.json",
+    "title": "Full-Stack Web Development Services",
+    "category": "Web Design & Development",
+    "count": 10
+  },
+  "full-stack-web-development": {
+    "file": "full-stack-web-development.json",
+    "title": "Full-Stack Web Development Services",
+    "category": "Web Design & Development",
+    "count": 10
+  },
+  "web-design-development/vibe-coding-ai-assisted-development": {
+    "file": "vibe-coding-ai-assisted-development.json",
+    "title": "Vibe Coding & AI-Assisted Web Development",
+    "category": "Web Design & Development",
+    "count": 10
+  },
+  "vibe-coding-ai-assisted-development": {
+    "file": "vibe-coding-ai-assisted-development.json",
+    "title": "Vibe Coding & AI-Assisted Web Development",
+    "category": "Web Design & Development",
+    "count": 10
+  },
+  "automation-ai-agents/n8n-automation": {
+    "file": "n8n-automation.json",
+    "title": "n8n Automation Services",
+    "category": "Automation & AI Agents",
+    "count": 10
+  },
+  "n8n-automation": {
+    "file": "n8n-automation.json",
+    "title": "n8n Automation Services",
+    "category": "Automation & AI Agents",
+    "count": 10
+  },
+  "automation-ai-agents/ai-agent-development": {
+    "file": "ai-agent-development.json",
+    "title": "AI Agent Development Services",
+    "category": "Automation & AI Agents",
+    "count": 10
+  },
+  "ai-agent-development": {
+    "file": "ai-agent-development.json",
+    "title": "AI Agent Development Services",
+    "category": "Automation & AI Agents",
+    "count": 10
+  },
+  "industries": {
+    "file": "industries.json",
+    "title": "Industries We Serve",
+    "category": "Industries",
+    "count": 10
+  },
+  "industries/startups": {
+    "file": "startups.json",
+    "title": "Startups SEO & AI Visibility Services",
+    "category": "Industries",
+    "count": 10
+  },
+  "startups": {
+    "file": "startups.json",
+    "title": "Startups SEO & AI Visibility Services",
+    "category": "Industries",
+    "count": 10
+  },
+  "industries/ecommerce": {
+    "file": "ecommerce.json",
+    "title": "Ecommerce SEO Services for Online Stores",
+    "category": "Industries",
+    "count": 10
+  },
+  "ecommerce": {
+    "file": "ecommerce.json",
+    "title": "Ecommerce SEO Services for Online Stores",
+    "category": "Industries",
+    "count": 10
+  },
+  "industries/healthcare": {
+    "file": "healthcare.json",
+    "title": "Medical SEO Services for Practices",
+    "category": "Industries",
+    "count": 10
+  },
+  "healthcare": {
+    "file": "healthcare.json",
+    "title": "Medical SEO Services for Practices",
+    "category": "Industries",
+    "count": 10
+  },
+  "industries/fashion-retail": {
+    "file": "fashion-retail.json",
+    "title": "Fashion & Retail SEO & AI Visibility Services",
+    "category": "Industries",
+    "count": 10
+  },
+  "fashion-retail": {
+    "file": "fashion-retail.json",
+    "title": "Fashion & Retail SEO & AI Visibility Services",
+    "category": "Industries",
+    "count": 10
+  },
+  "industries/saas-tech": {
+    "file": "saas-tech.json",
+    "title": "SEO for Tech and IT Companies",
+    "category": "Industries",
+    "count": 10
+  },
+  "saas-tech": {
+    "file": "saas-tech.json",
+    "title": "SEO for Tech and IT Companies",
+    "category": "Industries",
+    "count": 10
+  },
+  "industries/real-estate": {
+    "file": "real-estate.json",
+    "title": "Real Estate SEO Services for Agents",
+    "category": "Industries",
+    "count": 10
+  },
+  "real-estate": {
+    "file": "real-estate.json",
+    "title": "Real Estate SEO Services for Agents",
+    "category": "Industries",
+    "count": 10
+  },
+  "industries/education": {
+    "file": "education.json",
+    "title": "Education SEO & AI Visibility Services",
+    "category": "Industries",
+    "count": 10
+  },
+  "education": {
+    "file": "education.json",
+    "title": "Education SEO & AI Visibility Services",
+    "category": "Industries",
+    "count": 10
+  },
+  "industries/travel": {
+    "file": "travel.json",
+    "title": "Travel & Hospitality SEO & AI Visibility Services",
+    "category": "Industries",
+    "count": 10
+  },
+  "travel": {
+    "file": "travel.json",
+    "title": "Travel & Hospitality SEO & AI Visibility Services",
+    "category": "Industries",
+    "count": 10
+  },
+  "industries/legal": {
+    "file": "legal.json",
+    "title": "SEO for Lawyers and Law Firms",
+    "category": "Industries",
+    "count": 10
+  },
+  "legal": {
+    "file": "legal.json",
+    "title": "SEO for Lawyers and Law Firms",
+    "category": "Industries",
+    "count": 10
+  },
+  "industries/manufacturing": {
+    "file": "manufacturing.json",
+    "title": "Manufacturing & Industrial SEO & AI Visibility Services",
+    "category": "Industries",
+    "count": 10
+  },
+  "manufacturing": {
+    "file": "manufacturing.json",
+    "title": "Manufacturing & Industrial SEO & AI Visibility Services",
+    "category": "Industries",
+    "count": 10
+  },
+  "locations": {
+    "file": "locations.json",
+    "title": "Locations We Serve",
+    "category": "Locations",
+    "count": 10
+  },
+  "locations/seo-company-in-visakhapatnam": {
+    "file": "seo-company-in-visakhapatnam.json",
+    "title": "SEO Company in Visakhapatnam",
+    "category": "Locations",
+    "count": 10
+  },
+  "seo-company-in-visakhapatnam": {
+    "file": "seo-company-in-visakhapatnam.json",
+    "title": "SEO Company in Visakhapatnam",
+    "category": "Locations",
+    "count": 10
+  },
+  "locations/seo-company-in-delhi": {
+    "file": "seo-company-in-delhi.json",
+    "title": "SEO Company in Delhi NCR",
+    "category": "Locations",
+    "count": 10
+  },
+  "seo-company-in-delhi": {
+    "file": "seo-company-in-delhi.json",
+    "title": "SEO Company in Delhi NCR",
+    "category": "Locations",
+    "count": 10
+  },
+  "locations/seo-company-in-mumbai": {
+    "file": "seo-company-in-mumbai.json",
+    "title": "SEO Company in Mumbai",
+    "category": "Locations",
+    "count": 10
+  },
+  "seo-company-in-mumbai": {
+    "file": "seo-company-in-mumbai.json",
+    "title": "SEO Company in Mumbai",
+    "category": "Locations",
+    "count": 10
+  },
+  "locations/seo-company-in-bangalore": {
+    "file": "seo-company-in-bangalore.json",
+    "title": "SEO Company in Bangalore",
+    "category": "Locations",
+    "count": 10
+  },
+  "seo-company-in-bangalore": {
+    "file": "seo-company-in-bangalore.json",
+    "title": "SEO Company in Bangalore",
+    "category": "Locations",
+    "count": 10
+  },
+  "locations/seo-company-in-hyderabad": {
+    "file": "seo-company-in-hyderabad.json",
+    "title": "SEO Company in Hyderabad",
+    "category": "Locations",
+    "count": 10
+  },
+  "seo-company-in-hyderabad": {
+    "file": "seo-company-in-hyderabad.json",
+    "title": "SEO Company in Hyderabad",
+    "category": "Locations",
+    "count": 10
+  },
+  "locations/seo-company-in-chennai": {
+    "file": "seo-company-in-chennai.json",
+    "title": "SEO Company in Chennai",
+    "category": "Locations",
+    "count": 10
+  },
+  "seo-company-in-chennai": {
+    "file": "seo-company-in-chennai.json",
+    "title": "SEO Company in Chennai",
+    "category": "Locations",
+    "count": 10
+  },
+  "locations/seo-company-in-pune": {
+    "file": "seo-company-in-pune.json",
+    "title": "SEO Company in Pune",
+    "category": "Locations",
+    "count": 10
+  },
+  "seo-company-in-pune": {
+    "file": "seo-company-in-pune.json",
+    "title": "SEO Company in Pune",
+    "category": "Locations",
+    "count": 10
+  },
+  "locations/seo-company-in-kolkata": {
+    "file": "seo-company-in-kolkata.json",
+    "title": "SEO Company in Kolkata",
+    "category": "Locations",
+    "count": 10
+  },
+  "seo-company-in-kolkata": {
+    "file": "seo-company-in-kolkata.json",
+    "title": "SEO Company in Kolkata",
+    "category": "Locations",
+    "count": 10
+  },
+  "locations/seo-company-in-usa": {
+    "file": "seo-company-in-usa.json",
+    "title": "SEO Company in United States",
+    "category": "Locations",
+    "count": 10
+  },
+  "seo-company-in-usa": {
+    "file": "seo-company-in-usa.json",
+    "title": "SEO Company in United States",
+    "category": "Locations",
+    "count": 10
+  },
+  "locations/seo-company-in-uk": {
+    "file": "seo-company-in-uk.json",
+    "title": "SEO Company in United Kingdom",
+    "category": "Locations",
+    "count": 10
+  },
+  "seo-company-in-uk": {
+    "file": "seo-company-in-uk.json",
+    "title": "SEO Company in United Kingdom",
+    "category": "Locations",
+    "count": 10
+  },
+  "locations/seo-company-in-uae": {
+    "file": "seo-company-in-uae.json",
+    "title": "SEO Company in United Arab Emirates",
+    "category": "Locations",
+    "count": 10
+  },
+  "seo-company-in-uae": {
+    "file": "seo-company-in-uae.json",
+    "title": "SEO Company in United Arab Emirates",
+    "category": "Locations",
+    "count": 10
+  },
+  "locations/seo-company-in-europe": {
+    "file": "seo-company-in-europe.json",
+    "title": "SEO Company in Europe",
+    "category": "Locations",
+    "count": 10
+  },
+  "seo-company-in-europe": {
+    "file": "seo-company-in-europe.json",
+    "title": "SEO Company in Europe",
+    "category": "Locations",
+    "count": 10
+  },
+  "case-studies": {
+    "file": "case-studies.json",
+    "title": "SEO & AI SEO Case Studies",
+    "category": "Case Studies",
+    "count": 10
+  },
+  "case-studies/ecommerce-organic-revenue-growth": {
+    "file": "ecommerce-organic-revenue-growth.json",
+    "title": "E-commerce Case Study",
+    "category": "Case Studies",
+    "count": 10
+  },
+  "ecommerce-organic-revenue-growth": {
+    "file": "ecommerce-organic-revenue-growth.json",
+    "title": "E-commerce Case Study",
+    "category": "Case Studies",
+    "count": 10
+  },
+  "case-studies/saas-ai-visibility-turnaround": {
+    "file": "saas-ai-visibility-turnaround.json",
+    "title": "SaaS Case Study",
+    "category": "Case Studies",
+    "count": 10
+  },
+  "saas-ai-visibility-turnaround": {
+    "file": "saas-ai-visibility-turnaround.json",
+    "title": "SaaS Case Study",
+    "category": "Case Studies",
+    "count": 10
+  },
+  "case-studies/multi-location-clinic-local-seo": {
+    "file": "multi-location-clinic-local-seo.json",
+    "title": "Healthcare Case Study",
+    "category": "Case Studies",
+    "count": 10
+  },
+  "multi-location-clinic-local-seo": {
+    "file": "multi-location-clinic-local-seo.json",
+    "title": "Healthcare Case Study",
+    "category": "Case Studies",
+    "count": 10
+  },
+  "case-studies/us-law-firm-national-seo": {
+    "file": "us-law-firm-national-seo.json",
+    "title": "Legal services Case Study",
+    "category": "Case Studies",
+    "count": 10
+  },
+  "us-law-firm-national-seo": {
+    "file": "us-law-firm-national-seo.json",
+    "title": "Legal services Case Study",
+    "category": "Case Studies",
+    "count": 10
+  },
+  "case-studies/uae-real-estate-lead-generation": {
+    "file": "uae-real-estate-lead-generation.json",
+    "title": "Real estate Case Study",
+    "category": "Case Studies",
+    "count": 10
+  },
+  "uae-real-estate-lead-generation": {
+    "file": "uae-real-estate-lead-generation.json",
+    "title": "Real estate Case Study",
+    "category": "Case Studies",
+    "count": 10
+  },
+  "case-studies/uk-manufacturer-b2b-seo": {
+    "file": "uk-manufacturer-b2b-seo.json",
+    "title": "Manufacturing Case Study",
+    "category": "Case Studies",
+    "count": 10
+  },
+  "uk-manufacturer-b2b-seo": {
+    "file": "uk-manufacturer-b2b-seo.json",
+    "title": "Manufacturing Case Study",
+    "category": "Case Studies",
+    "count": 10
+  },
+  "pricing": {
+    "file": "pricing.json",
+    "title": "Affordable SEO Services for Small Businesses",
+    "category": "Company & Legal",
+    "count": 10
+  },
+  "about": {
+    "file": "about.json",
+    "title": "About AVR Web Consulting",
+    "category": "Company & Legal",
+    "count": 10
+  },
+  "privacy-policy": {
+    "file": "privacy-policy.json",
+    "title": "Privacy Policy",
+    "category": "Company & Legal",
+    "count": 6
+  },
+  "terms-of-service": {
+    "file": "terms-of-service.json",
+    "title": "Terms of Service",
+    "category": "Company & Legal",
+    "count": 6
+  },
+  "/blog/aeo-vs-geo-vs-llmo": {
+    "file": "-blog-aeo-vs-geo-vs-llmo.json",
+    "title": "AEO vs GEO vs LLMO: What Each Term Actually Means",
+    "category": "Blog",
+    "count": 5
+  },
+  "/blog/google-ai-overviews-optimization": {
+    "file": "-blog-google-ai-overviews-optimization.json",
+    "title": "How to Get Cited in Google AI Overviews",
+    "category": "Blog",
+    "count": 5
+  },
+  "/blog/llms-txt-guide": {
+    "file": "-blog-llms-txt-guide.json",
+    "title": "llms.txt Explained: Should Your Site Have One?",
+    "category": "Blog",
+    "count": 5
+  },
+  "/blog/technical-seo-checklist": {
+    "file": "-blog-technical-seo-checklist.json",
+    "title": "Technical SEO Checklist for 2026 (52 Points)",
+    "category": "Blog",
+    "count": 5
+  },
+  "/blog/local-seo-guide-india": {
+    "file": "-blog-local-seo-guide-india.json",
+    "title": "Local SEO in India: A Step-by-Step Guide",
+    "category": "Blog",
+    "count": 5
+  },
+  "/blog/ecommerce-seo-strategy": {
+    "file": "-blog-ecommerce-seo-strategy.json",
+    "title": "E-commerce SEO Strategy: Category Pages Beat Blogs",
+    "category": "Blog",
+    "count": 5
+  },
+  "/blog/content-that-ranks-and-converts": {
+    "file": "-blog-content-that-ranks-and-converts.json",
+    "title": "Writing Content That Ranks, Converts and Gets Quoted",
+    "category": "Blog",
+    "count": 5
+  },
+  "/blog/google-ads-wasted-spend": {
+    "file": "-blog-google-ads-wasted-spend.json",
+    "title": "7 Ways Google Ads Budgets Leak (And How to Plug Them)",
+    "category": "Blog",
+    "count": 5
+  },
+  "/blog/core-web-vitals-fixes": {
+    "file": "-blog-core-web-vitals-fixes.json",
+    "title": "Core Web Vitals: The Fixes That Actually Move the Needle",
+    "category": "Blog",
+    "count": 5
+  },
+  "/blog/schema-markup-that-matters": {
+    "file": "-blog-schema-markup-that-matters.json",
+    "title": "Schema Markup That Actually Matters in 2026",
+    "category": "Blog",
+    "count": 5
+  },
+  "/blog/seo-vs-paid-ads-budget": {
+    "file": "-blog-seo-vs-paid-ads-budget.json",
+    "title": "SEO vs Paid Ads: How to Split a Limited Budget",
+    "category": "Blog",
+    "count": 5
+  },
+  "/blog/international-seo-hreflang": {
+    "file": "-blog-international-seo-hreflang.json",
+    "title": "International SEO: Getting Hreflang Right the First Time",
+    "category": "Blog",
+    "count": 5
+  },
+  "/blog/ai-visibility-tracking": {
+    "file": "-blog-ai-visibility-tracking.json",
+    "title": "How to Track Your Brand's Visibility Inside AI Assistants",
+    "category": "Blog",
+    "count": 5
+  },
+  "/blog/small-business-seo-budget": {
+    "file": "-blog-small-business-seo-budget.json",
+    "title": "SEO for Small Business Websites: Where to Start",
+    "category": "Blog",
+    "count": 5
+  },
+  "/blog/website-redesign-without-losing-rankings": {
+    "file": "-blog-website-redesign-without-losing-rankings.json",
+    "title": "How to Redesign a Website Without Losing Rankings",
+    "category": "Blog",
+    "count": 5
+  },
+  "/blog/ads-paid-advertising-organic-seo-llmo-seo": {
+    "file": "-blog-ads-paid-advertising-organic-seo-llmo-seo.json",
+    "title": "What Are Ads? Types, Benefits, Paid Ads vs Organic SEO & LLMO SEO",
+    "category": "Blog",
+    "count": 32
+  },
+  "/blog/citations-and-google-business-profile": {
+    "file": "-blog-citations-and-google-business-profile.json",
+    "title": "Local Citations & Google Business Profile: Benefits, Types & SEO",
+    "category": "Blog",
+    "count": 31
+  },
+  "/blog/n8n-automation-ai-agents-digital-marketing-seo": {
+    "file": "-blog-n8n-automation-ai-agents-digital-marketing-seo.json",
+    "title": "n8n Automation & AI Agents for Digital Marketing and SEO",
+    "category": "Blog",
+    "count": 25
+  },
+  "/blog/what-is-modern-web-designing": {
+    "file": "-blog-what-is-modern-web-designing.json",
+    "title": "What Is Modern Web Design? Rules, Digital Marketing & SEO Trends",
+    "category": "Blog",
+    "count": 15
+  },
+  "/blog/what-is-llmo-seo": {
+    "file": "-blog-what-is-llmo-seo.json",
+    "title": "What Is LLMO SEO? Benefits, Traditional SEO to LLMO SEO, and Latest SEO Trends",
+    "category": "Blog",
+    "count": 15
+  },
+  "/blog/what-is-ai-seo": {
+    "file": "-blog-what-is-ai-seo.json",
+    "title": "What Is AI SEO? How It Works, Benefits, and the Evolution from Traditional SEO",
+    "category": "Blog",
+    "count": 8
+  },
+  "/blog/what-is-aeo-seo": {
+    "file": "-blog-what-is-aeo-seo.json",
+    "title": "What Is AEO SEO? Benefits, How to Transition From Traditional SEO, and the Latest SEO Trends",
+    "category": "Blog",
+    "count": 10
+  },
+  "/blog/what-is-geo-seo": {
+    "file": "-blog-what-is-geo-seo.json",
+    "title": "What Is GEO SEO? Benefits, Traditional SEO to GEO SEO, and the Latest SEO Trends",
+    "category": "Blog",
+    "count": 10
+  },
+  "/blog/what-is-llm-seo": {
+    "file": "-blog-what-is-llm-seo.json",
+    "title": "What Is LLM SEO? Benefits, How It Works, and the Transition From Traditional SEO",
+    "category": "Blog",
+    "count": 10
+  },
+  "contact": {
+    "file": "contact.json",
+    "title": "Contact AVR Web Consulting",
+    "category": "Company & Legal",
+    "count": 10
+  },
+  "web-development": {
+    "file": "web-development.json",
+    "title": "Web Development Services",
+    "category": "Web Design & Development",
+    "count": 10
+  },
+  "aeo": {
+    "file": "aeo.json",
+    "targetFile": "answer-engine-optimization.json",
+    "count": 10
+  },
+  "aeo-answer-engine-optimization": {
+    "file": "aeo-answer-engine-optimization.json",
+    "targetFile": "answer-engine-optimization.json",
+    "count": 10
+  },
+  "geo": {
+    "file": "geo.json",
+    "targetFile": "geo-seo.json",
+    "count": 10
+  },
+  "geo-generative-engine-optimization": {
+    "file": "geo-generative-engine-optimization.json",
+    "targetFile": "geo-seo.json",
+    "count": 10
+  },
+  "llmo-optimization": {
+    "file": "llmo-optimization.json",
+    "targetFile": "llmo.json",
+    "count": 10
+  },
+  "real-estate-seo": {
+    "file": "real-estate-seo.json",
+    "targetFile": "real-estate-seo-services.json",
+    "count": 10
+  },
+  "visakhapatnam": {
+    "file": "visakhapatnam.json",
+    "targetFile": "seo-company-in-visakhapatnam.json",
+    "count": 10
+  },
+  "delhi": {
+    "file": "delhi.json",
+    "targetFile": "seo-company-in-delhi.json",
+    "count": 10
+  },
+  "delhi-ncr": {
+    "file": "delhi-ncr.json",
+    "targetFile": "seo-company-in-delhi.json",
+    "count": 10
+  },
+  "mumbai": {
+    "file": "mumbai.json",
+    "targetFile": "seo-company-in-mumbai.json",
+    "count": 10
+  },
+  "bangalore": {
+    "file": "bangalore.json",
+    "targetFile": "seo-company-in-bangalore.json",
+    "count": 10
+  },
+  "bengaluru": {
+    "file": "bengaluru.json",
+    "targetFile": "seo-company-in-bangalore.json",
+    "count": 10
+  },
+  "hyderabad": {
+    "file": "hyderabad.json",
+    "targetFile": "seo-company-in-hyderabad.json",
+    "count": 10
+  },
+  "chennai": {
+    "file": "chennai.json",
+    "targetFile": "seo-company-in-chennai.json",
+    "count": 10
+  },
+  "pune": {
+    "file": "pune.json",
+    "targetFile": "seo-company-in-pune.json",
+    "count": 10
+  },
+  "kolkata": {
+    "file": "kolkata.json",
+    "targetFile": "seo-company-in-kolkata.json",
+    "count": 10
+  },
+  "usa": {
+    "file": "usa.json",
+    "targetFile": "seo-company-in-usa.json",
+    "count": 10
+  },
+  "uk": {
+    "file": "uk.json",
+    "targetFile": "seo-company-in-uk.json",
+    "count": 10
+  },
+  "uae": {
+    "file": "uae.json",
+    "targetFile": "seo-company-in-uae.json",
+    "count": 10
+  },
+  "dubai": {
+    "file": "dubai.json",
+    "targetFile": "seo-company-in-uae.json",
+    "count": 10
+  },
+  "dubai-uae": {
+    "file": "dubai-uae.json",
+    "targetFile": "seo-company-in-uae.json",
+    "count": 10
+  },
+  "europe": {
+    "file": "europe.json",
+    "targetFile": "seo-company-in-europe.json",
+    "count": 10
+  },
+  "social-ads": {
+    "file": "social-ads.json",
+    "targetFile": "social-media-ads.json",
+    "count": 10
+  },
+  "saas": {
+    "file": "saas.json",
+    "targetFile": "saas-tech.json",
+    "count": 10
+  },
+  "saas-seo": {
+    "file": "saas-seo.json",
+    "targetFile": "saas-tech.json",
+    "count": 10
+  },
+  "ecommerce-seo": {
+    "file": "ecommerce-seo.json",
+    "targetFile": "ecommerce.json",
+    "count": 10
+  },
+  "healthcare-medical-seo": {
+    "file": "healthcare-medical-seo.json",
+    "targetFile": "healthcare.json",
+    "count": 10
+  },
+  "b2b-industrial-manufacturing-seo": {
+    "file": "b2b-industrial-manufacturing-seo.json",
+    "targetFile": "manufacturing.json",
+    "count": 10
+  },
+  "hospitality-travel-hotels-resorts-seo": {
+    "file": "hospitality-travel-hotels-resorts-seo.json",
+    "targetFile": "travel.json",
+    "count": 10
+  },
+  "london-uk": {
+    "file": "london-uk.json",
+    "targetFile": "seo-company-in-uk.json",
+    "count": 10
+  },
+  "london": {
+    "file": "london.json",
+    "targetFile": "seo-company-in-uk.json",
+    "count": 10
+  },
+  "new-york-usa": {
+    "file": "new-york-usa.json",
+    "targetFile": "seo-company-in-usa.json",
+    "count": 10
+  },
+  "new-york": {
+    "file": "new-york.json",
+    "targetFile": "seo-company-in-usa.json",
+    "count": 10
+  },
+  "international-seo": {
+    "file": "international-seo.json",
+    "targetFile": "blog-international-seo-hreflang.json",
+    "count": 5
+  },
+  "singapore": {
+    "file": "singapore.json",
+    "targetFile": "seo-company-in-europe.json",
+    "count": 10
+  },
+  "franchise-multi-location-seo": {
+    "file": "franchise-multi-location-seo.json",
+    "targetFile": "multi-location-clinic-local-seo.json",
+    "count": 10
+  }
+}

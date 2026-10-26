@@ -1,0 +1,27 @@
+{
+  "blog_google_ai_overviews_optimization_ai_overviews_reduce": {
+    "id": "blog_google_ai_overviews_optimization_ai_overviews_reduce",
+    "question": "Do AI Overviews reduce my clicks?",
+    "answer": "For informational queries, yes — CTR commonly drops. Being cited preserves brand visibility and captures the users who click through for depth."
+  },
+  "blog_google_ai_overviews_optimization_i_opt_out": {
+    "id": "blog_google_ai_overviews_optimization_i_opt_out",
+    "question": "Can I opt out of AI Overviews?",
+    "answer": "You can block Google-Extended or use nosnippet directives, but blocking removes your citation opportunity while your competitors keep theirs."
+  },
+  "blog_google_ai_overviews_optimization_schema_guarantee_overview": {
+    "id": "blog_google_ai_overviews_optimization_schema_guarantee_overview",
+    "question": "Does schema guarantee an Overview citation?",
+    "answer": "No. Schema helps Google parse your content reliably, but selection depends on relevance, authority and clarity of the passage."
+  },
+  "blog_google_ai_overviews_optimization_fast_changes_take": {
+    "id": "blog_google_ai_overviews_optimization_fast_changes_take",
+    "question": "How fast can changes take effect?",
+    "answer": "Overview citation sets refresh frequently; well-structured updates on already-ranking pages can be reflected within two to six weeks."
+  },
+  "blog_google_ai_overviews_optimization_overviews_cite_small": {
+    "id": "blog_google_ai_overviews_optimization_overviews_cite_small",
+    "question": "Do Overviews cite small sites?",
+    "answer": "Yes, when the page is the clearest answer for a specific niche query. Specificity beats domain size on long-tail topics."
+  }
+}

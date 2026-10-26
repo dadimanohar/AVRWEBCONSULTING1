@@ -1,0 +1,27 @@
+{
+  "blog_seo_vs_paid_ads_budget_which_gives_faster": {
+    "id": "blog_seo_vs_paid_ads_budget_which_gives_faster",
+    "question": "Which gives faster results, SEO or ads?",
+    "answer": "Paid ads deliver traffic the day they launch. SEO typically takes 60-90 days for movement and 4-6 months for meaningful volume."
+  },
+  "blog_seo_vs_paid_ads_budget_seo_cheaper_than": {
+    "id": "blog_seo_vs_paid_ads_budget_seo_cheaper_than",
+    "question": "Is SEO cheaper than ads long term?",
+    "answer": "Usually yes, because organic traffic keeps arriving after work stops, while ad traffic ends the moment spend stops."
+  },
+  "blog_seo_vs_paid_ads_budget_i_only_seo": {
+    "id": "blog_seo_vs_paid_ads_budget_i_only_seo",
+    "question": "Can I do only SEO?",
+    "answer": "Yes, if you can wait. Many of our clients start SEO-only at $100-300/month and add ads once organic covers baseline demand."
+  },
+  "blog_seo_vs_paid_ads_budget_should_i_pause": {
+    "id": "blog_seo_vs_paid_ads_budget_should_i_pause",
+    "question": "Should I pause ads once SEO works?",
+    "answer": "Rarely fully — keep ads on high-intent, high-margin terms, but you can reduce spend on terms you now own organically."
+  },
+  "blog_seo_vs_paid_ads_budget_i_measure_which": {
+    "id": "blog_seo_vs_paid_ads_budget_i_measure_which",
+    "question": "How do I measure which channel drove the sale?",
+    "answer": "Use GA4 with a data-driven attribution model plus CRM lead source capture, and review assisted conversions rather than last click alone."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "social_media_marketing_which_platforms_should": {
+    "id": "social_media_marketing_which_platforms_should",
+    "question": "Which platforms should my business be on?",
+    "answer": "Two done well beat five done poorly. Local services and D2C usually pick Instagram and Facebook; B2B and SaaS pick LinkedIn and YouTube. We choose based on where your buyers already spend attention, then commit to consistency there."
+  },
+  "social_media_marketing_often_should_we": {
+    "id": "social_media_marketing_often_should_we",
+    "question": "How often should we post?",
+    "answer": "Four to six times a week on the primary platform, with at least two short-form videos. Consistency matters more than volume — an unpredictable feed loses reach far faster than a modest but regular one."
+  },
+  "social_media_marketing_create_video_content": {
+    "id": "social_media_marketing_create_video_content",
+    "question": "Do you create video content?",
+    "answer": "Yes. We script, edit, caption and format short-form video. We can work from footage your team records on a phone, from existing webinar or event material, or from stock and motion graphics where filming is impractical."
+  },
+  "social_media_marketing_will_post_from": {
+    "id": "social_media_marketing_will_post_from",
+    "question": "Will you post from our accounts?",
+    "answer": "Yes, with scheduled publishing through your own business accounts. You keep ownership and admin rights, and every calendar is approved by you before anything goes live."
+  },
+  "social_media_marketing_organic_social_affect": {
+    "id": "social_media_marketing_organic_social_affect",
+    "question": "Does organic social affect SEO?",
+    "answer": "Not as a direct ranking factor, but strongly as a demand generator. Social drives branded search, earns links from people who discovered you there, and produces the third-party mentions AI models use when deciding who to recommend."
+  },
+  "social_media_marketing_long_before_social": {
+    "id": "social_media_marketing_long_before_social",
+    "question": "How long before social shows results?",
+    "answer": "Engagement usually improves within four to six weeks of consistent posting. Follower growth and referral traffic typically become meaningful around month three, and branded search lift shows around months four to six."
+  },
+  "social_media_marketing_handle_negative_comments": {
+    "id": "social_media_marketing_handle_negative_comments",
+    "question": "Do you handle negative comments?",
+    "answer": "Yes. We reply to routine complaints using an approved tone and escalation guide, and anything sensitive — legal, medical or safety-related — is escalated to your team immediately rather than answered on the fly."
+  },
+  "social_media_marketing_grow_followers_quickly": {
+    "id": "social_media_marketing_grow_followers_quickly",
+    "question": "Can you grow followers quickly?",
+    "answer": "We do not buy followers or use engagement pods, because a bloated follower count with dead engagement suppresses reach and misleads your reporting. Growth here is earned through content that people save and share."
+  },
+  "social_media_marketing_need_from_us": {
+    "id": "social_media_marketing_need_from_us",
+    "question": "What do you need from us each month?",
+    "answer": "About an hour: approving the calendar, sending any product or event updates, and ideally recording a few short clips. The more raw material you can give us, the more distinctive the output."
+  },
+  "social_media_marketing_social_be_bundled": {
+    "id": "social_media_marketing_social_be_bundled",
+    "question": "Can social be bundled with SEO?",
+    "answer": "Yes, and it is our most popular combination. The same keyword and question research powers both, so the blog, the FAQ hub and the social calendar all reinforce one consistent set of brand facts."
+  }
+}

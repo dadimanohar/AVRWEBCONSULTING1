@@ -1,0 +1,52 @@
+{
+  "home_digital_marketing_services": {
+    "id": "home_digital_marketing_services",
+    "question": "What digital marketing services does AVR Web Consulting provide?",
+    "answer": "We provide SEO, Google Ads, social media advertising and marketing, content marketing, WordPress development, and e-commerce development. We also offer AI SEO, custom full-stack development, AI agents, and business automation."
+  },
+  "home_provide_local_seo": {
+    "id": "home_provide_local_seo",
+    "question": "Do you provide Local SEO and Global SEO?",
+    "answer": "Yes. Local SEO supports discovery in specific cities and service areas, while Global SEO helps businesses build search visibility across countries and languages."
+  },
+  "home_provide_google_ads": {
+    "id": "home_provide_google_ads",
+    "question": "Do you provide Google Ads and Social Media Marketing?",
+    "answer": "Yes. We manage Google Ads, social media advertising, and organic social media marketing to help businesses reach relevant audiences and create measurable traffic and lead opportunities."
+  },
+  "home_provide_wordpress_ecommerce": {
+    "id": "home_provide_wordpress_ecommerce",
+    "question": "Do you provide WordPress and E-commerce Development?",
+    "answer": "Yes. We build responsive WordPress websites and e-commerce experiences focused on usability, credibility, conversions, and online sales functionality."
+  },
+  "home_ai_seo": {
+    "id": "home_ai_seo",
+    "question": "What is AI SEO?",
+    "answer": "AI SEO improves content structure, entity clarity, machine-readable information, and source quality to support discovery across AI-powered search and answer experiences."
+  },
+  "home_answer_engine_optimization": {
+    "id": "home_answer_engine_optimization",
+    "question": "What is Answer Engine Optimization?",
+    "answer": "Answer Engine Optimization structures content around clear questions, direct answers, supporting detail, and reliable context so answer engines can understand and retrieve it more effectively."
+  },
+  "home_ai_seo_different": {
+    "id": "home_ai_seo_different",
+    "question": "How is AI SEO different from traditional SEO?",
+    "answer": "Traditional SEO focuses on visibility in search results. AI SEO also considers how answer engines and language models interpret, retrieve, and present information. The two approaches share strong technical and content foundations."
+  },
+  "home_build_custom_fullstack": {
+    "id": "home_build_custom_fullstack",
+    "question": "Do you build custom full-stack websites?",
+    "answer": "Yes. When standard website platforms are not enough, we build custom web experiences and applications using modern front-end, server, and database technologies, including AI-assisted development workflows."
+  },
+  "home_provide_ai_agents": {
+    "id": "home_provide_ai_agents",
+    "question": "Do you provide AI agents and n8n automation?",
+    "answer": "Yes. We develop focused AI agents, n8n automations, and connected business workflows designed to reduce repetitive work and improve operational efficiency."
+  },
+  "home_difference_between_geo": {
+    "id": "home_difference_between_geo",
+    "question": "What is the difference between GEO Targeting SEO and GEO SEO?",
+    "answer": "GEO Targeting SEO focuses on geographic markets such as cities, regions, and countries. GEO SEO means Generative Engine Optimization and focuses on improving how information is understood in AI-driven discovery experiences."
+  }
+}

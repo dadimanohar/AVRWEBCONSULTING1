@@ -1,0 +1,52 @@
+{
+  "ai_citations_mentions_ai_citation": {
+    "id": "ai_citations_mentions_ai_citation",
+    "question": "What is an AI citation?",
+    "answer": "An AI citation is a source an AI assistant credits — usually as a link or footnote — when generating an answer. Being cited puts your brand in front of the user and often drives high-intent clicks."
+  },
+  "ai_citations_mentions_unlinked_brand_mentions": {
+    "id": "ai_citations_mentions_unlinked_brand_mentions",
+    "question": "Do unlinked brand mentions matter?",
+    "answer": "Yes. Language models learn associations from text, so repeated unlinked mentions in trusted contexts still strengthen the connection between your brand and your category."
+  },
+  "ai_citations_mentions_know_which_sources": {
+    "id": "ai_citations_mentions_know_which_sources",
+    "question": "How do you know which sources AI engines use?",
+    "answer": "We log the cited domains for every prompt in your tracking set. Those logs show, category by category, which publications and platforms actually influence the answers."
+  },
+  "ai_citations_mentions_long_it_take": {
+    "id": "ai_citations_mentions_long_it_take",
+    "question": "How long does it take to earn AI citations?",
+    "answer": "Directory and review placements can register within weeks. Editorial roundup inclusion typically takes one to three months per placement depending on the publication's cycle."
+  },
+  "ai_citations_mentions_this_same_as": {
+    "id": "ai_citations_mentions_this_same_as",
+    "question": "Is this the same as link building?",
+    "answer": "It overlaps, but the target list is different. Traditional link building chases authority metrics; citation building chases the specific sources engines quote, which are sometimes low-DA but highly cited."
+  },
+  "ai_citations_mentions_get_us_onto": {
+    "id": "ai_citations_mentions_get_us_onto",
+    "question": "Can you get us onto review platforms like Clutch or G2?",
+    "answer": "We set up and optimise the profiles and run a compliant review request programme with your clients. We never write or buy reviews."
+  },
+  "ai_citations_mentions_if_competitor_dominates": {
+    "id": "ai_citations_mentions_if_competitor_dominates",
+    "question": "What if a competitor dominates every roundup?",
+    "answer": "We target the gaps: newer publications, niche verticals, regional lists and comparison content of our own. Category incumbency is beatable with specificity."
+  },
+  "ai_citations_mentions_measure_citation_growth": {
+    "id": "ai_citations_mentions_measure_citation_growth",
+    "question": "How do you measure citation growth?",
+    "answer": "Monthly citation rate across the tracked prompt set, the number of new citing domains, and referral traffic from assistants where analytics can identify it."
+  },
+  "ai_citations_mentions_guest_posts_help": {
+    "id": "ai_citations_mentions_guest_posts_help",
+    "question": "Do guest posts help AI visibility?",
+    "answer": "Well-placed ones do, especially on sites assistants already cite. Low-quality mass guest posting does not, and can harm classic SEO at the same time."
+  },
+  "ai_citations_mentions_much_citation_building": {
+    "id": "ai_citations_mentions_much_citation_building",
+    "question": "How much does citation building cost?",
+    "answer": "Guest posts start at $20 per placement, and digital PR campaigns are quoted per project after source mapping. Most clients run citation building inside a monthly AI SEO retainer."
+  }
+}

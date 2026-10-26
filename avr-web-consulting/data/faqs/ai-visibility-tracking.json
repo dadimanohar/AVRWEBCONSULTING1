@@ -1,0 +1,27 @@
+{
+  "blog_ai_visibility_tracking_which_ai_assistants": {
+    "id": "blog_ai_visibility_tracking_which_ai_assistants",
+    "question": "Which AI assistants should I track?",
+    "answer": "ChatGPT, Google Gemini, Google AI Overviews, Perplexity and Claude cover the large majority of assistant usage today."
+  },
+  "blog_ai_visibility_tracking_often_should_i": {
+    "id": "blog_ai_visibility_tracking_often_should_i",
+    "question": "How often should I run the prompt set?",
+    "answer": "Monthly is the right cadence. Weekly produces noise, quarterly misses the effect of content changes."
+  },
+  "blog_ai_visibility_tracking_ai_answers_send": {
+    "id": "blog_ai_visibility_tracking_ai_answers_send",
+    "question": "Do AI answers send real traffic?",
+    "answer": "Yes, though volumes are smaller than search. The traffic converts well because the visitor arrives pre-qualified by the recommendation."
+  },
+  "blog_ai_visibility_tracking_ai_answers_consistent": {
+    "id": "blog_ai_visibility_tracking_ai_answers_consistent",
+    "question": "Are AI answers consistent between runs?",
+    "answer": "No, they vary. That is why a fixed prompt set run at a regular cadence, tracked as a rate over time, is more reliable than one-off checks."
+  },
+  "blog_ai_visibility_tracking_i_automate_this": {
+    "id": "blog_ai_visibility_tracking_i_automate_this",
+    "question": "Can I automate this tracking?",
+    "answer": "Partly, with API-based scripts or commercial visibility tools, but manual spot checks remain necessary because consumer interfaces differ from API responses."
+  }
+}

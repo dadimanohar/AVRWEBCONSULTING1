@@ -1,0 +1,52 @@
+{
+  "ai_retrieval_systems_ai_retrieval_system": {
+    "id": "ai_retrieval_systems_ai_retrieval_system",
+    "question": "What is an AI retrieval system?",
+    "answer": "It is the fetch-parse-chunk-embed-retrieve pipeline that supplies a language model with source material at answer time. Optimising for it determines whether your content can be used at all."
+  },
+  "ai_retrieval_systems_rag": {
+    "id": "ai_retrieval_systems_rag",
+    "question": "What is RAG?",
+    "answer": "RAG stands for retrieval-augmented generation: the model retrieves relevant documents first, then generates an answer grounded in them. Most AI search products work this way."
+  },
+  "ai_retrieval_systems_chunking_affect_my": {
+    "id": "ai_retrieval_systems_chunking_affect_my",
+    "question": "How does chunking affect my content?",
+    "answer": "If a passage relies on context from earlier sections, it can be retrieved alone and misunderstood. Writing self-contained sections keeps meaning intact when chunks are separated."
+  },
+  "ai_retrieval_systems_i_need_vector": {
+    "id": "ai_retrieval_systems_i_need_vector",
+    "question": "Do I need a vector database?",
+    "answer": "Not for public AI visibility — the engines maintain their own. A vector store is only relevant if you are building your own search or assistant on top of your content."
+  },
+  "ai_retrieval_systems_entity_graph": {
+    "id": "ai_retrieval_systems_entity_graph",
+    "question": "What is an entity graph?",
+    "answer": "It is your JSON-LD markup connected by @id references so machines can see that a service, an article, an author and an organisation all belong to the same business."
+  },
+  "ai_retrieval_systems_xml_sitemaps_still": {
+    "id": "ai_retrieval_systems_xml_sitemaps_still",
+    "question": "Are XML sitemaps still relevant?",
+    "answer": "Yes, especially with accurate lastmod values, because they help both search and AI crawlers prioritise what to fetch and re-fetch."
+  },
+  "ai_retrieval_systems_images_pdfs_fit": {
+    "id": "ai_retrieval_systems_images_pdfs_fit",
+    "question": "How do images and PDFs fit in?",
+    "answer": "Poorly, unless supported by text. Any fact you need retrieved should exist as HTML text with descriptive alt text on the accompanying visual."
+  },
+  "ai_retrieval_systems_retrieval_optimisation_break": {
+    "id": "ai_retrieval_systems_retrieval_optimisation_break",
+    "question": "Can retrieval optimisation break normal SEO?",
+    "answer": "No. Everything it requires — server-rendered content, semantic HTML, valid schema, consistent facts — also benefits classic search rankings."
+  },
+  "ai_retrieval_systems_test_retrieval_readiness": {
+    "id": "ai_retrieval_systems_test_retrieval_readiness",
+    "question": "How do you test retrieval readiness?",
+    "answer": "We fetch pages without JavaScript, simulate chunk boundaries, validate every schema block and ask assistants to summarise specific URLs to confirm they read what we intended."
+  },
+  "ai_retrieval_systems_often_should_retrieval": {
+    "id": "ai_retrieval_systems_often_should_retrieval",
+    "question": "How often should retrieval readiness be re-checked?",
+    "answer": "Quarterly, and after every redesign, CMS upgrade or template change, since those are the events that most often break rendering or drop schema."
+  }
+}

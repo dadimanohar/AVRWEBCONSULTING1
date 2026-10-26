@@ -1,0 +1,27 @@
+{
+  "blog_technical_seo_checklist_often_should_i": {
+    "id": "blog_technical_seo_checklist_often_should_i",
+    "question": "How often should I run a technical audit?",
+    "answer": "A full audit twice a year, a light crawl monthly, and always immediately after a redesign, migration or CMS change."
+  },
+  "blog_technical_seo_checklist_single_most_damaging": {
+    "id": "blog_technical_seo_checklist_single_most_damaging",
+    "question": "What is the single most damaging technical issue?",
+    "answer": "Blocking or noindexing pages that should rank. Nothing else matters if the page cannot be crawled or indexed."
+  },
+  "blog_technical_seo_checklist_core_web_vitals": {
+    "id": "blog_technical_seo_checklist_core_web_vitals",
+    "question": "Do Core Web Vitals affect rankings?",
+    "answer": "They are a modest ranking signal, but their bigger effect is on conversions and on whether crawlers and AI retrievers finish fetching your pages."
+  },
+  "blog_technical_seo_checklist_javascript_bad_seo": {
+    "id": "blog_technical_seo_checklist_javascript_bad_seo",
+    "question": "Is JavaScript bad for SEO?",
+    "answer": "Not inherently, but client-only rendering delays indexing and can hide content from AI retrievers. Server-render your critical content."
+  },
+  "blog_technical_seo_checklist_i_this_checklist": {
+    "id": "blog_technical_seo_checklist_i_this_checklist",
+    "question": "Can I do this checklist myself?",
+    "answer": "Most of it, with Search Console and a crawler like Screaming Frog. Log-file analysis and rendering debugging usually need specialist help."
+  }
+}

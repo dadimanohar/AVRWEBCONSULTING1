@@ -1,0 +1,27 @@
+{
+  "blog_ecommerce_seo_strategy_should_ecommerce_sites": {
+    "id": "blog_ecommerce_seo_strategy_should_ecommerce_sites",
+    "question": "Should e-commerce sites blog at all?",
+    "answer": "Yes, but as support for categories — buying guides and comparisons that link into commercial pages, not generic lifestyle posts."
+  },
+  "blog_ecommerce_seo_strategy_much_copy_category": {
+    "id": "blog_ecommerce_seo_strategy_much_copy_category",
+    "question": "How much copy does a category page need?",
+    "answer": "Enough to answer the buying question — typically 400-900 words spread above and below the product grid, never a keyword-stuffed wall of text."
+  },
+  "blog_ecommerce_seo_strategy_should_outofstock_pages": {
+    "id": "blog_ecommerce_seo_strategy_should_outofstock_pages",
+    "question": "Should out-of-stock pages be deleted?",
+    "answer": "No. Keep the URL, show alternatives and restock dates. Deleting loses accumulated links and rankings."
+  },
+  "blog_ecommerce_seo_strategy_product_reviews_help": {
+    "id": "blog_ecommerce_seo_strategy_product_reviews_help",
+    "question": "Do product reviews help SEO?",
+    "answer": "Yes — they add unique content, support AggregateRating markup and are a strong corroboration signal for AI shopping answers."
+  },
+  "blog_ecommerce_seo_strategy_ai_assistants_pick": {
+    "id": "blog_ecommerce_seo_strategy_ai_assistants_pick",
+    "question": "How do AI assistants pick products to recommend?",
+    "answer": "They favour clearly structured specs, consistent pricing across sources, genuine review corroboration and merchant pages that load fast and are crawlable."
+  }
+}

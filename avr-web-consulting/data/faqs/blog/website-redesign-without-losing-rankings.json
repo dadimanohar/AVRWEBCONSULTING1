@@ -1,0 +1,27 @@
+{
+  "blog_website_redesign_without_losing_rankings_will_redesign_always": {
+    "id": "blog_website_redesign_without_losing_rankings_will_redesign_always",
+    "question": "Will a redesign always drop my rankings?",
+    "answer": "No. A well-executed migration usually sees a brief fluctuation and then recovery, often above the previous baseline if speed and content improve."
+  },
+  "blog_website_redesign_without_losing_rankings_should_i_change": {
+    "id": "blog_website_redesign_without_losing_rankings_should_i_change",
+    "question": "Should I change URLs during a redesign?",
+    "answer": "Only when necessary. Every changed URL costs some equity in transfer, so keep the existing structure unless it is genuinely harmful."
+  },
+  "blog_website_redesign_without_losing_rankings_long_should_redirects": {
+    "id": "blog_website_redesign_without_losing_rankings_long_should_redirects",
+    "question": "How long should redirects stay in place?",
+    "answer": "Permanently where possible, and at minimum one year. Old links keep sending traffic long after the change."
+  },
+  "blog_website_redesign_without_losing_rankings_when_should_i": {
+    "id": "blog_website_redesign_without_losing_rankings_when_should_i",
+    "question": "When should I involve SEO in a redesign?",
+    "answer": "At the wireframe stage. Fixing SEO after a design is signed off is far more expensive than designing with it in mind."
+  },
+  "blog_website_redesign_without_losing_rankings_most_common_migration": {
+    "id": "blog_website_redesign_without_losing_rankings_most_common_migration",
+    "question": "What is the most common migration mistake?",
+    "answer": "Launching with the staging noindex tag still in place, followed closely by redirecting everything to the homepage."
+  }
+}

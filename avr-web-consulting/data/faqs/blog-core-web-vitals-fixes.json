@@ -1,0 +1,27 @@
+{
+  "blog_core_web_vitals_fixes_core_web_vitals": {
+    "id": "blog_core_web_vitals_fixes_core_web_vitals",
+    "question": "Do Core Web Vitals affect rankings much?",
+    "answer": "They are a tiebreaker rather than a primary signal, but the conversion and crawl-efficiency gains usually justify the work by themselves."
+  },
+  "blog_core_web_vitals_fixes_good_lcp": {
+    "id": "blog_core_web_vitals_fixes_good_lcp",
+    "question": "What is a good LCP?",
+    "answer": "Under 2.5 seconds for 75% of real users. Under 2 seconds is a safer target on mobile networks."
+  },
+  "blog_core_web_vitals_fixes_why_my_lighthouse": {
+    "id": "blog_core_web_vitals_fixes_why_my_lighthouse",
+    "question": "Why is my Lighthouse score good but Search Console says failing?",
+    "answer": "Lighthouse is a lab simulation on your device; Search Console reports real-user field data across devices and networks."
+  },
+  "blog_core_web_vitals_fixes_page_builder_ruin": {
+    "id": "blog_core_web_vitals_fixes_page_builder_ruin",
+    "question": "Does a page builder ruin Core Web Vitals?",
+    "answer": "Heavy builders make good scores harder but not impossible — trimming unused modules, scripts and fonts usually recovers most of the gap."
+  },
+  "blog_core_web_vitals_fixes_long_until_improvements": {
+    "id": "blog_core_web_vitals_fixes_long_until_improvements",
+    "question": "How long until improvements show in Search Console?",
+    "answer": "Field data updates on a 28-day rolling window, so allow roughly a month after deployment for the report to reflect fixes."
+  }
+}

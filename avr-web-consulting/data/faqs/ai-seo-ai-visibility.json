@@ -1,0 +1,52 @@
+{
+  "ai_visibility_ai_visibility": {
+    "id": "ai_visibility_ai_visibility",
+    "question": "What is AI visibility?",
+    "answer": "AI visibility is the extent to which AI assistants mention, cite and accurately describe your brand when answering questions relevant to your business. It is the AI-era equivalent of share of search."
+  },
+  "ai_visibility_track_ai_visibility": {
+    "id": "ai_visibility_track_ai_visibility",
+    "question": "How do you track AI visibility?",
+    "answer": "We maintain a fixed prompt set covering your category, competitors, locations and buying questions, run it monthly across the major assistants, and record mentions, citations, sentiment and sources."
+  },
+  "ai_visibility_why_results_vary": {
+    "id": "ai_visibility_why_results_vary",
+    "question": "Why do results vary between runs?",
+    "answer": "Assistants are non-deterministic and personalise by region and account. We control for this by using consistent settings, running multiple samples per prompt and reporting trends rather than single results."
+  },
+  "ai_visibility_i_track_ai": {
+    "id": "ai_visibility_i_track_ai",
+    "question": "Can I track AI visibility myself?",
+    "answer": "You can spot-check manually, and you should. Systematic tracking across hundreds of prompts, several engines and multiple months is where a managed service saves time and produces reliable trends."
+  },
+  "ai_visibility_good_mention_rate": {
+    "id": "ai_visibility_good_mention_rate",
+    "question": "What is a good mention rate?",
+    "answer": "It depends on category density. In niche B2B categories, 40–60% of relevant prompts is achievable; in crowded consumer categories, any consistent presence against national brands is meaningful progress."
+  },
+  "ai_visibility_ai_visibility_correlate": {
+    "id": "ai_visibility_ai_visibility_correlate",
+    "question": "Does AI visibility correlate with traffic?",
+    "answer": "Partly. Some answers produce clicks, many produce brand awareness without a click. We pair visibility metrics with branded search volume and direct traffic to capture the full effect."
+  },
+  "ai_visibility_quickly_visibility_improve": {
+    "id": "ai_visibility_quickly_visibility_improve",
+    "question": "How quickly can visibility improve?",
+    "answer": "Fixes to retrieval and accuracy can show within weeks. Competitive prompts where established publications dominate typically need three to six months of content and authority work."
+  },
+  "ai_visibility_track_ai_overviews": {
+    "id": "ai_visibility_track_ai_overviews",
+    "question": "Do you track AI Overviews too?",
+    "answer": "Yes. Google AI Overviews are tracked alongside the assistants, including whether your domain is one of the linked sources."
+  },
+  "ai_visibility_which_competitors_benchmark": {
+    "id": "ai_visibility_which_competitors_benchmark",
+    "question": "Which competitors do you benchmark?",
+    "answer": "We benchmark against up to three named competitors of your choice plus whichever brands the engines actually cite most, which is often not who you expect."
+  },
+  "ai_visibility_monthly_report_include": {
+    "id": "ai_visibility_monthly_report_include",
+    "question": "What does the monthly report include?",
+    "answer": "Prompt-level results, trend charts for mention and citation rate, competitor share of answer, accuracy and sentiment notes, the sources engines used, and a prioritised action list."
+  }
+}

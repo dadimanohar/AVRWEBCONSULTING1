@@ -1,0 +1,52 @@
+{
+  "geo_targeting_seo_geo_targeting_seo": {
+    "id": "geo_targeting_seo_geo_targeting_seo",
+    "question": "What is GEO targeting in SEO?",
+    "answer": "GEO targeting is optimising pages for searches that include a location, such as 'SEO services Hyderabad'. It combines city-specific content, geographic schema and locally relevant links so the page ranks in and for that place."
+  },
+  "geo_targeting_seo_geo_targeting_different": {
+    "id": "geo_targeting_seo_geo_targeting_different",
+    "question": "How is GEO targeting different from local SEO?",
+    "answer": "Local SEO focuses on map pack visibility around a physical location and relies heavily on Google Business Profile. GEO targeting is about organic pages ranking for location keywords, which works even in cities where you have no office."
+  },
+  "geo_targeting_seo_i_rank_city": {
+    "id": "geo_targeting_seo_i_rank_city",
+    "question": "Can I rank in a city where I have no office?",
+    "answer": "Yes, in organic results. You can build a service-area page for that city with genuine local content and links. You cannot legitimately appear in the map pack there without a verified address in that city."
+  },
+  "geo_targeting_seo_many_city_pages": {
+    "id": "geo_targeting_seo_many_city_pages",
+    "question": "How many city pages should I create?",
+    "answer": "Only as many as you can make genuinely different and genuinely serve. Ten strong city pages outperform a hundred templated ones, which risk being classified as doorway pages."
+  },
+  "geo_targeting_seo_city_pages_count": {
+    "id": "geo_targeting_seo_city_pages_count",
+    "question": "Do city pages count as doorway pages?",
+    "answer": "They do if they offer no unique value. Pages with distinct copy, real local proof, unique FAQs and clear service information are legitimate and rank well."
+  },
+  "geo_targeting_seo_long_city_pages": {
+    "id": "geo_targeting_seo_long_city_pages",
+    "question": "How long do city pages take to rank?",
+    "answer": "Tier-2 city pages often rank within 6–10 weeks. Tier-1 metros with entrenched competitors typically need four to six months of supporting links and content."
+  },
+  "geo_targeting_seo_handle_regional_languages": {
+    "id": "geo_targeting_seo_handle_regional_languages",
+    "question": "Do you handle regional languages?",
+    "answer": "We handle English plus transliterated regional terms that people actually search, and can arrange native-language content for Hindi, Telugu and Tamil where the demand justifies it."
+  },
+  "geo_targeting_seo_schema_city_pages": {
+    "id": "geo_targeting_seo_schema_city_pages",
+    "question": "What schema do city pages need?",
+    "answer": "Service or LocalBusiness schema with areaServed and geo coordinates, plus BreadcrumbList and FAQPage. This combination is also what AI engines use when answering location-based questions."
+  },
+  "geo_targeting_seo_geo_targeting_work": {
+    "id": "geo_targeting_seo_geo_targeting_work",
+    "question": "Can GEO targeting work internationally?",
+    "answer": "Yes. The same approach applies to Dubai, London or New York, with the addition of hreflang and currency localisation when multiple countries are in play."
+  },
+  "geo_targeting_seo_measure_geo_targeting": {
+    "id": "geo_targeting_seo_measure_geo_targeting",
+    "question": "How do you measure GEO targeting success?",
+    "answer": "We track rankings by city keyword group, organic sessions and conversions filtered by landing page, and grid-based local rank where a Google Business Profile exists in that city."
+  }
+}

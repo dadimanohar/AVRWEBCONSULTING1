@@ -1,0 +1,52 @@
+{
+  "llm_seo_llm_seo": {
+    "id": "llm_seo_llm_seo",
+    "question": "What is LLM SEO?",
+    "answer": "LLM SEO is optimisation aimed at large language models rather than search result pages. The objective is for models to know your brand, describe it accurately and recommend it when users ask relevant questions."
+  },
+  "llm_seo_get_my_brand": {
+    "id": "llm_seo_get_my_brand",
+    "question": "Can you get my brand into ChatGPT's training data?",
+    "answer": "Nobody can guarantee inclusion in a training set. What you can do is increase the volume and consistency of accurate public information about your brand, which raises the probability of being represented correctly in future training runs and in live retrieval today."
+  },
+  "llm_seo_i_find_out": {
+    "id": "llm_seo_i_find_out",
+    "question": "How do I find out what ChatGPT says about my brand?",
+    "answer": "We run a structured prompt set across each assistant and log the responses, including accuracy errors, outdated facts and competitor comparisons. That baseline becomes the roadmap."
+  },
+  "llm_seo_if_ai_states": {
+    "id": "llm_seo_if_ai_states",
+    "question": "What if an AI states something wrong about my business?",
+    "answer": "We correct the source material: update your own pages, fix stale directory entries, publish clarifying content and pursue corrections on third-party sites. Live-retrieval assistants usually reflect the fix within weeks."
+  },
+  "llm_seo_which_models_should": {
+    "id": "llm_seo_which_models_should",
+    "question": "Which models should I optimise for?",
+    "answer": "Start with the assistants your buyers use. For most B2B clients that is ChatGPT, Gemini and Perplexity; enterprise buyers add Copilot. The underlying work overlaps heavily across all of them."
+  },
+  "llm_seo_llm_seo_just": {
+    "id": "llm_seo_llm_seo_just",
+    "question": "Is LLM SEO just PR?",
+    "answer": "It shares DNA with digital PR, because third-party mentions matter. It differs in its emphasis on machine-readable structure, entity consistency and measurable prompt-level testing."
+  },
+  "llm_seo_schema_markup_affect": {
+    "id": "llm_seo_schema_markup_affect",
+    "question": "Does schema markup affect LLMs?",
+    "answer": "Yes. Structured data gives models unambiguous facts — services, prices, locations, authors — that are easier to reuse confidently than prose, and it feeds the search indexes many assistants retrieve from."
+  },
+  "llm_seo_long_llm_seo": {
+    "id": "llm_seo_long_llm_seo",
+    "question": "How long does LLM SEO take?",
+    "answer": "Retrieval-side gains appear in weeks. Shifting the consensus description of your brand takes three to six months of consistent publishing and third-party seeding."
+  },
+  "llm_seo_i_need_wikipedia": {
+    "id": "llm_seo_i_need_wikipedia",
+    "question": "Do I need a Wikipedia page?",
+    "answer": "It helps if you genuinely meet notability guidelines, but it is not required. Consistent presence across industry directories, review platforms and publications achieves much of the same entity effect."
+  },
+  "llm_seo_llm_seo_reported": {
+    "id": "llm_seo_llm_seo_reported",
+    "question": "How is LLM SEO reported?",
+    "answer": "Monthly: mention rate and citation rate per prompt, accuracy of the description, sentiment, competitor share of voice, and the content or mentions added that month."
+  }
+}

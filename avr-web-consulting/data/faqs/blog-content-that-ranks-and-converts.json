@@ -1,0 +1,27 @@
+{
+  "blog_content_that_ranks_and_converts_long_should_blog": {
+    "id": "blog_content_that_ranks_and_converts_long_should_blog",
+    "question": "How long should a blog post be?",
+    "answer": "As long as the question requires. Answer-first pages of 900 words often beat 3,000-word posts that bury the answer."
+  },
+  "blog_content_that_ranks_and_converts_i_use_ai": {
+    "id": "blog_content_that_ranks_and_converts_i_use_ai",
+    "question": "Can I use AI to write content?",
+    "answer": "Use it for outlines, research summaries and editing. Publishing unedited AI text produces generic content with no first-hand experience signal."
+  },
+  "blog_content_that_ranks_and_converts_often_should_i": {
+    "id": "blog_content_that_ranks_and_converts_often_should_i",
+    "question": "How often should I publish?",
+    "answer": "Consistency over volume — four genuinely useful posts a month outperform twenty thin ones, and reduce cannibalisation risk."
+  },
+  "blog_content_that_ranks_and_converts_should_old_content": {
+    "id": "blog_content_that_ranks_and_converts_should_old_content",
+    "question": "Should old content be updated or replaced?",
+    "answer": "Update when the URL has authority and the topic still matters; consolidate when several thin pages compete for the same intent."
+  },
+  "blog_content_that_ranks_and_converts_makes_content_quotable": {
+    "id": "blog_content_that_ranks_and_converts_makes_content_quotable",
+    "question": "What makes content quotable by AI?",
+    "answer": "Self-contained passages with specific facts, clear attribution, dates and structure the model can lift without needing surrounding context."
+  }
+}
