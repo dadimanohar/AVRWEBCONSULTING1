@@ -1,14 +1,14 @@
 <?php
 /**
  * AVR Web Consulting - Theme Functions & Definitions
- * Block Theme with full Gutenberg block patterns, site editor support, and non-destructive page importer.
+ * Classic theme with exact React repository design, full page templates, and content importer.
  */
 
 if (!defined('ABSPATH')) {
     exit;
 }
 
-define('AVR_THEME_VERSION', '2.0.0');
+define('AVR_THEME_VERSION', '3.0.0');
 define('AVR_THEME_DIR', get_template_directory());
 define('AVR_THEME_URI', get_template_directory_uri());
 
@@ -17,6 +17,7 @@ require_once AVR_THEME_DIR . '/inc/redirects.php';
 require_once AVR_THEME_DIR . '/inc/seo-schema.php';
 require_once AVR_THEME_DIR . '/inc/class-avr-importer.php';
 require_once AVR_THEME_DIR . '/inc/faqs.php';
+require_once AVR_THEME_DIR . '/inc/canonical-pages.php';
 
 /**
  * Sets up theme defaults and registers support for various WordPress features.
@@ -311,3 +312,42 @@ function avr_handle_inquiry_submission() {
 }
 add_action('wp_ajax_avr_submit_inquiry', 'avr_handle_inquiry_submission');
 add_action('wp_ajax_nopriv_avr_submit_inquiry', 'avr_handle_inquiry_submission');
+
+/**
+ * Auto-select PHP page template by slug for pages created via the importer.
+ * This ensures each page uses the exact design from the React repository.
+ */
+function avr_auto_select_page_template($template) {
+    if (is_page()) {
+        $slug = get_post_field('post_name', get_the_ID());
+        $parent_id = wp_get_post_parent_id(get_the_ID());
+
+        // Check for page-{slug}.php in theme root
+        $page_template = locate_template('page-' . $slug . '.php');
+        if ($page_template) {
+            return $page_template;
+        }
+
+        // Check for page-{slug}.php in page-templates/ subdirectory
+        $sub_template = AVR_THEME_DIR . '/page-templates/page-' . $slug . '.php';
+        if (file_exists($sub_template)) {
+            return $sub_template;
+        }
+    }
+
+    return $template;
+}
+add_filter('template_include', 'avr_auto_select_page_template', 99);
+
+/**
+ * Remove default WordPress block-library CSS on frontend (we use our own compiled CSS)
+ */
+function avr_dequeue_block_library_css() {
+    if (!is_admin()) {
+        wp_dequeue_style('wp-block-library');
+        wp_dequeue_style('wp-block-library-theme');
+        wp_dequeue_style('classic-theme-styles');
+        wp_dequeue_style('global-styles');
+    }
+}
+add_action('wp_enqueue_scripts', 'avr_dequeue_block_library_css', 100);
