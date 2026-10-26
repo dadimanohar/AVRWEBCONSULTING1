@@ -220,12 +220,19 @@ function avr_send_security_and_performance_headers() {
 add_action('send_headers', 'avr_send_security_and_performance_headers');
 
 /**
- * Auto-Optimize Content Images: Rewrite old image paths to WebP with dimensions
+ * Auto-Optimize Content Images: Rewrite old image paths to WebP with dimensions and map /images/ to theme assets
  */
 function avr_optimize_content_images($content) {
     if (empty($content)) {
         return $content;
     }
+
+    // Rewrite /images/... to theme assets/images/... if referenced as /images/
+    $content = preg_replace(
+        '/(["\'])\/images\/([a-zA-Z0-9_\.-]+)(["\'])/i',
+        '$1' . AVR_THEME_URI . '/assets/images/$2$3',
+        $content
+    );
 
     // Rewrite image1.jpg to image1.webp with explicit width and height
     $content = preg_replace(
@@ -244,6 +251,14 @@ function avr_optimize_content_images($content) {
     return $content;
 }
 add_filter('the_content', 'avr_optimize_content_images', 20);
+
+/**
+ * Register URL Rewrite Rule for direct /images/... requests
+ */
+function avr_register_image_rewrites() {
+    add_rewrite_rule('^images/(.+)$', 'wp-content/themes/avr-web-consulting/assets/images/$1', 'top');
+}
+add_action('init', 'avr_register_image_rewrites');
 
 /**
  * Register Block Pattern Categories

@@ -15,6 +15,28 @@ class AVR_Theme_Importer {
     public function __construct() {
         add_action('admin_menu', array($this, 'register_admin_menu'));
         add_action('admin_init', array($this, 'handle_actions'));
+        add_action('after_switch_theme', array($this, 'auto_import_on_activation'));
+    }
+
+    /**
+     * Automatic idempotent content setup on theme activation
+     */
+    public function auto_import_on_activation() {
+        $existing = get_posts(array(
+            'name'        => 'home',
+            'post_type'   => 'page',
+            'post_status' => 'any',
+            'numberposts' => 1,
+        ));
+        if (empty($existing)) {
+            $this->execute_import(false);
+        }
+
+        // Configure clean SEO permalinks if default query strings
+        if (get_option('permalink_structure') === '') {
+            update_option('permalink_structure', '/%postname%/');
+        }
+        flush_rewrite_rules();
     }
 
     public function register_admin_menu() {
